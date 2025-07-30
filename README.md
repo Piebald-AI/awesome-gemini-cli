@@ -97,7 +97,18 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## Contributing
 
-Contributions are welcome!  Fork the repo, edit `README.md`, add entries, and make a PR.
+Contributions are welcome!  Fork the repo, edit `README.md`, add entries, and make a PR.  Then you can optionally add a badge to your project's README:
+```
+[![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
+```
+[![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
+
+There's also a flat version of the badge you can use instead if you prefer:
+```
+[![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
+```
+[![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
+
 
 ## License
 
