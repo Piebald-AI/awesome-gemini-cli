@@ -27,6 +27,7 @@ A curated list of awesome tools, extensions, and resources for Google's Gemini C
 
 ## Development Tools & Utilities
 
+- [**Gemini CLI Logs Prettifier**](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
 - [**Splitrail**](https://github.com/Piebald-AI/splitrail) - Usage analyzer tool + cloud for agentic development tools including Gemini CLI.
 - [**ccmanager**](https://github.com/kbwo/ccmanager) - Claude Code / Gemini CLI / Codex CLI Session Manager
 - [**gemini-commit-assistant**](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by gemini-cli
