@@ -4,16 +4,37 @@ A curated list of awesome tools, extensions, and resources for Google's Gemini C
 
 ## Contents
 
+- [Official](#official)
+- [Interfaces](#interfaces)
+- [Development Tools & Utilities](#interfaces)
 - [API Bridges & Proxies](#api-bridges--proxies)
 - [MCP Servers](#mcp-servers)
 - [Neovim Plugins](#neovim-plugins)
-- [GUI Applications](#gui-applications)
-- [Development Tools & Utilities](#development-tools--utilities)
 - [GitHub Actions & Automation](#github-actions--automation)
 - [Development Frameworks & Orchestration](#development-frameworks--orchestration)
 - [Documentation & Learning Resources](#documentation--learning-resources)
 - [Demo Collections & Examples](#demo-collections--examples)
-- [Language-Specific Implementations](#language-specific-implementations)
+
+## Official
+
+- [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [**gemini-cli-action**](https://github.com/google-gemini/gemini-cli-action) - A GitHub Action for automating software development tasks using Gemini CLI
+- [**Gemini CLI cookbook**](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API (https://ai.google.dev/gemini-api/docs)
+
+## Interfaces
+
+- [**Gemini Desktop**](https://github.com/Piebald-AI/gemini-desktop) - Desktop/web UI for Gemini CLI.
+
+## Development Tools & Utilities
+
+- [**Splitrail**](https://github.com/Piebald-AI/splitrail) - Usage analyzer tool + cloud for agentic development tools including Gemini CLI.
+- [**ccmanager**](https://github.com/kbwo/ccmanager) - Claude Code / Gemini CLI / Codex CLI Session Manager
+- [**gemini-commit-assistant**](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by gemini-cli
+- [**Gemini-CLI-Git-Ask**](https://github.com/ihainan/Gemini-CLI-Git-Ask) - A code analysis tool that enables natural language queries about Git repositories using Google's Gemini CLI
+- [**Gemini-CLI-Context-Engineer**](https://github.com/rickscode/Gemini-CLI-Context-Engineer) - A comprehensive template for Context Engineering with Gemini CLI, designed to help AI coding assistants generate more accurate code
+- [**gemini-cli-ntfy**](https://github.com/nakkulla/gemini-cli-ntfy) - A transparent wrapper for Gemini CLI that sends a notification when Gemini needs your attention
+- [**gcli-hotkey**](https://github.com/hexcreator/gcli-hotkey) - Creates an awesome hotkey to open up Gemini CLI in whichever window you used the hotkey in
+- [**gemini-cli-container**](https://github.com/samhann/gemini-cli-container) - A comprehensive DevContainer setup for Google's Gemini CLI, designed to provide a secure, fully-featured development environment
 
 ## API Bridges & Proxies
 
@@ -44,16 +65,6 @@ A curated list of awesome tools, extensions, and resources for Google's Gemini C
 - [**gemini-nvim**](https://github.com/abdullahchand/gemini-nvim) - A Neovim plugin to interact with the Gemini CLI in a vertical split
 - [**gemini-cli.nvim**](https://github.com/ivanlee1999/gemini-cli.nvim) - A Neovim plugin for interacting with Google's Gemini CLI
 
-## Development Tools & Utilities
-
-- [**ccmanager**](https://github.com/kbwo/ccmanager) - Claude Code / Gemini CLI / Codex CLI Session Manager
-- [**gemini-commit-assistant**](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by gemini-cli
-- [**Gemini-CLI-Git-Ask**](https://github.com/ihainan/Gemini-CLI-Git-Ask) - A code analysis tool that enables natural language queries about Git repositories using Google's Gemini CLI
-- [**Gemini-CLI-Context-Engineer**](https://github.com/rickscode/Gemini-CLI-Context-Engineer) - A comprehensive template for Context Engineering with Gemini CLI, designed to help AI coding assistants generate more accurate code
-- [**gemini-cli-ntfy**](https://github.com/nakkulla/gemini-cli-ntfy) - A transparent wrapper for Gemini CLI that sends a notification when Gemini needs your attention
-- [**gcli-hotkey**](https://github.com/hexcreator/gcli-hotkey) - Creates an awesome hotkey to open up Gemini CLI in whichever window you used the hotkey in
-- [**gemini-cli-container**](https://github.com/samhann/gemini-cli-container) - A comprehensive DevContainer setup for Google's Gemini CLI, designed to provide a secure, fully-featured development environment
-
 ## GitHub Actions & Automation
 
 - [**gemini-cli-action**](https://github.com/google-gemini/gemini-cli-action) - A GitHub Action for automating software development tasks using Gemini CLI
@@ -67,6 +78,7 @@ A curated list of awesome tools, extensions, and resources for Google's Gemini C
 
 ## Documentation & Learning Resources
 
+- [**Gemini CLI cookbook**](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API (https://ai.google.dev/gemini-api/docs)
 - [**gemini-cli-cheat-sheet**](https://github.com/Njengah/gemini-cli-cheat-sheet) - Your complete guide to mastering Gemini CLI - from zero to hero in minutes!
 - [**gemini-cli-extension**](https://github.com/philschmid/gemini-cli-extension) - Collection of helpful gemini cli extensions and commands
 - [**gemini-docs-ext**](https://github.com/markmcd/gemini-docs-ext) - Gemini CLI extension that adds Gemini API docs and MCP
