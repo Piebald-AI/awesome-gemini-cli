@@ -6,16 +6,18 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## Contents
 
-- [Official](#official)
-- [Interfaces](#interfaces)
-- [Development Tools & Utilities](#interfaces)
-- [API Bridges & Proxies](#api-bridges--proxies)
-- [MCP Servers](#mcp-servers)
-- [Neovim Plugins](#neovim-plugins)
-- [GitHub Actions & Automation](#github-actions--automation)
-- [Development Frameworks & Orchestration](#development-frameworks--orchestration)
-- [Documentation & Learning Resources](#documentation--learning-resources)
-- [Demo Collections & Examples](#demo-collections--examples)
+- [Official](#official) (3)
+- [Interfaces](#interfaces) (1)
+- [Development Tools & Utilities](#interfaces) (9)
+- [API Bridges & Proxies](#api-bridges--proxies) (7)
+- [MCP Servers](#mcp-servers) (8)
+- [Neovim Plugins](#neovim-plugins) (5)
+- [GitHub Actions & Automation](#github-actions--automation) (1)
+- [Development Frameworks & Orchestration](#development-frameworks--orchestration) (4)
+- [Documentation & Learning Resources](#documentation--learning-resources) (7)
+- [Demo Collections & Examples](#demo-collections--examples) (3)
+
+48 entries total
 
 ## Official
 
