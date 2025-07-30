@@ -2,6 +2,8 @@
 
 A curated list of awesome tools, extensions, and resources for Google's Gemini CLI.
 
+We'll create releases when we add new entries. Star this repository to receive notifications of new releases in your GitHub dashboard.
+
 ## Contents
 
 - [Official](#official)
