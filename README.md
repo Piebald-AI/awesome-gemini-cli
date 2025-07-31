@@ -2,7 +2,10 @@
 
 A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
-We'll create a new release highlighting new entries each week. Star this repository to receive release notifications for the new entries in your GitHub dashboard!
+**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)
+
+> [!NOTE]
+> We'll create a new release highlighting new entries each week. Star this repository to receive release notifications for the new entries in your GitHub dashboard!
 
 ## Contents
 
@@ -99,7 +102,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## Contributing
 
-Contributions are welcome!  Fork the repo, edit `README.md`, add entries, and make a PR.  Then you can optionally add a badge to your project's README:
+Contributions are highly valued!  Fork the repo, edit `README.md`, add entries, and make a PR.  Then you can optionally add a badge to your project's README:
 ```
 [![Mentioned in Awesome Gemini CLI](https://awesome.re/mentioned-badge.svg)](https://github.com/Piebald-AI/awesome-gemini-cli)
 ```
