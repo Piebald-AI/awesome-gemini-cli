@@ -84,6 +84,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [**gemini-cli-commands-demo**](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI
 - [**solar-code**](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI
 
+## Forks
+
+- [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
+- [**Qwen Code**](https://github.com/QwenLM/qwen-code/) - fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
+
 ## Documentation & Learning Resources
 
 - [**Gemini CLI cookbook**](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API (https://ai.google.dev/gemini-api/docs)
