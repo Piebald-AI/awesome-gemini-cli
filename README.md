@@ -12,6 +12,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [Official](#official) (3)
 - [Interfaces](#interfaces) (1)
 - [Development Tools & Utilities](#interfaces) (9)
+- [Forks](#forks) (2)
 - [API Bridges & Proxies](#api-bridges--proxies) (7)
 - [MCP Servers](#mcp-servers) (8)
 - [Neovim Plugins](#neovim-plugins) (5)
@@ -20,7 +21,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [Documentation & Learning Resources](#documentation--learning-resources) (7)
 - [Demo Collections & Examples](#demo-collections--examples) (3)
 
-48 entries total
+50 entries total
 
 ## Official
 
@@ -31,6 +32,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ## Interfaces
 
 - [**Gemini Desktop**](https://github.com/Piebald-AI/gemini-desktop) - Desktop/web UI for Gemini CLI.
+
+## Forks
+
+- [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
+- [**Qwen Code**](https://github.com/QwenLM/qwen-code/) - fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
 
 ## Development Tools & Utilities
 
@@ -83,11 +89,6 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [**brain**](https://github.com/aliafshar/brain) - A multi-agent framework built into GEMINI.md to run on the Gemini CLI
 - [**gemini-cli-commands-demo**](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI
 - [**solar-code**](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI
-
-## Forks
-
-- [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
-- [**Qwen Code**](https://github.com/QwenLM/qwen-code/) - fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
 
 ## Documentation & Learning Resources
 
