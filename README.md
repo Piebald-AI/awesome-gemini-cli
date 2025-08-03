@@ -87,7 +87,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ## Forks
 
 - [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
-- [**Qwen Code**](https://github.com/QwenLM/qwen-code/) = fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
+- [**Qwen Code**](https://github.com/QwenLM/qwen-code/) - fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
 
 ## Documentation & Learning Resources
 
