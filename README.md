@@ -7,6 +7,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 > [!NOTE]
 > We'll create a new release highlighting new entries each week. Star this repository to receive release notifications for the new entries in your GitHub dashboard!
 
+## 🎉 New Entries
+
+- [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
+- [**Gemini CLI Logs Prettifier**](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
+
 ## Contents
 
 - [Official](#official) (3)
