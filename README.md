@@ -67,6 +67,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## MCP Servers
 
+- [**ToolsForMCPServer**](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI with MCP Server project enables interaction between the Gemini CLI and Google Apps Script for automating Google Workspace tasks
 - [**gemini-mcp-tool**](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis
 - [**mcp-gemini-cli**](https://github.com/choplin/mcp-gemini-cli) - A simple MCP (Model Context Protocol) server wrapper for Google's Gemini CLI
 - [**gemini-cli-mcp**](https://github.com/InfolabAI/gemini-cli-mcp) - Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings
@@ -74,7 +75,6 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [**gemini-cli-mcp**](https://github.com/DiversioTeam/gemini-cli-mcp) - The Gemini CLI MCP (Model Context Protocol) Server is an open-source Python tool that acts as a bridge between AI assistants and Google's Gemini CLI
 - [**gemini-mcp**](https://github.com/neriousy/gemini-mcp) - A simple MCP server for using the Gemini CLI
 - [**gemini-cli-mcp**](https://github.com/0xmountaintop/gemini-cli-mcp) - A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini
-- [**ToolsForMCPServer**](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI with MCP Server project enables interaction between the Gemini CLI and Google Apps Script for automating Google Workspace tasks
 
 ## Neovim Plugins
 
