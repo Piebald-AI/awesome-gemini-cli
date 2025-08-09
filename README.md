@@ -65,6 +65,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [**gemini-cli-router**](https://github.com/Jasonzhangf/gemini-cli-router) - routing your gemini-cli to openai 3rd party providers
 - [**ai-sdk-provider-gemini-cli**](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - A community provider for the Vercel AI SDK that enables using Google's Gemini models through the Gemini CLI library
 
+## Commands & Extensions
+
+- [gemini-flow](https://github.com/clduab11/gemini-flow) - rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team.
+
 ## MCP Servers
 
 - [**ToolsForMCPServer**](https://github.com/tanaikech/ToolsForMCPServer) - The Gemini CLI with MCP Server project enables interaction between the Gemini CLI and Google Apps Script for automating Google Workspace tasks
