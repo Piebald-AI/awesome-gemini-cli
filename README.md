@@ -9,6 +9,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## 🎉 New Entries
 
+- [**Terminal Jarvis**](https://github.com/BA-CalderonMorales/terminal-jarvis) - A unified command center for AI coding tools. Manage and run claude-code, gemini-cli, qwen-code, opencode, llxprt, and codex from one beautiful terminal interface.
+- [**run-gemini-cli**](https://github.com/google-github-actions/run-gemini-cli) - GitHub Action that integrates Gemini into your development workflow via the Gemini CLI.
 - [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
 - [**Gemini CLI Logs Prettifier**](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
 
