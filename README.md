@@ -31,7 +31,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ## Official
 
 - [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [**gemini-cli-action**](https://github.com/google-gemini/gemini-cli-action) - A GitHub Action for automating software development tasks using Gemini CLI
+- [**run-gemini-cli**](https://github.com/google-github-actions/run-gemini-cli) - GitHub Action that integrates Gemini into your development workflow via the Gemini CLI.
 - [**Gemini CLI cookbook**](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API (https://ai.google.dev/gemini-api/docs)
 
 ## Interfaces
