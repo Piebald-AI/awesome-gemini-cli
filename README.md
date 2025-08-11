@@ -39,6 +39,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 ## Interfaces
 
 - [**Gemini Desktop**](https://github.com/Piebald-AI/gemini-desktop) - Desktop/web UI for Gemini CLI.
+- [**AionUi**](https://github.com/office-sec/AionUi) - Transform your command-line experience into a modern, efficient AI Chat interface.
 
 ## Forks
 
