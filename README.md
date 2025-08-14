@@ -20,9 +20,11 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 - [Official](#official) (3)
 - [Interfaces](#interfaces) (1)
-- [Development Tools & Utilities](#interfaces) (9)
 - [Forks](#forks) (2)
+- [Fun](#fun) (1)
+- [Development Tools & Utilities](#development-tools--utilities) (11)
 - [API Bridges & Proxies](#api-bridges--proxies) (7)
+- [Commands & Extensions](#commands--extensions) (2)
 - [MCP Servers](#mcp-servers) (8)
 - [Neovim Plugins](#neovim-plugins) (5)
 - [GitHub Actions & Automation](#github-actions--automation) (1)
@@ -30,7 +32,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [Documentation & Learning Resources](#documentation--learning-resources) (7)
 - [Demo Collections & Examples](#demo-collections--examples) (3)
 
-50 entries total
+55 entries total
 
 ## Official
 
@@ -49,7 +51,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## Fun
 
-- [**oh-my-logog**](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
+- [**oh-my-logo**](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 
 ## Development Tools & Utilities
 
