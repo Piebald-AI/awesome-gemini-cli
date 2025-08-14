@@ -77,7 +77,8 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## Commands & Extensions
 
-- [gemini-flow](https://github.com/clduab11/gemini-flow) - rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team.
+- [**gemini-flow**](https://github.com/clduab11/gemini-flow) - rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team.
+- [**C.O.R.E.**](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for coding agents. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline
 
 ## MCP Servers
 
