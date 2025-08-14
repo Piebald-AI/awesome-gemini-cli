@@ -9,6 +9,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## 🎉 New Entries
 
+- [**oh-my-logog**](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - [**nix-ai-tools**](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents.  Easily install Gemini CLI and many other tools with Nix.
 - [**Terminal Jarvis**](https://github.com/BA-CalderonMorales/terminal-jarvis) - A unified command center for AI coding tools. Manage and run claude-code, gemini-cli, qwen-code, opencode, llxprt, and codex from one beautiful terminal interface.
 - [**run-gemini-cli**](https://github.com/google-github-actions/run-gemini-cli) - GitHub Action that integrates Gemini into your development workflow via the Gemini CLI.
@@ -45,6 +46,10 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 - [**LLxprt Code**](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
 - [**Qwen Code**](https://github.com/QwenLM/qwen-code/) - fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
+
+## Fun
+
+- [**oh-my-logog**](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 
 ## Development Tools & Utilities
 
