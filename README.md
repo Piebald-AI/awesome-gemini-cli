@@ -1,3 +1,5 @@
+<img width="4339" height="1373" alt="banner" src="./assets/banner.png" />
+
 # Awesome Gemini CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome tools, extensions, and resources for Gemini CLI.
