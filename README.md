@@ -29,15 +29,12 @@ We'll create a new release highlighting new entries each week. Star this reposit
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - [nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents.  Easily install Gemini CLI and many other tools with Nix.
 - [Terminal Jarvis](https://github.com/BA-CalderonMorales/terminal-jarvis) - A unified command center for AI coding tools. Manage and run Claude Code, Gemini CLI, Qwen Code, OpenCode, LLxprt, and Codex CLI from one beautiful terminal interface.
-- [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - GitHub Action that integrates Gemini into your development workflow via the Gemini CLI.
-- [LLxprt Code](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
-- [Gemini CLI Logs Prettifier](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
-
 
 ## Official
 
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Gemini CLI cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API (https://ai.google.dev/gemini-api/docs)
+- [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - GitHub Action that integrates Gemini into your development workflow via the Gemini CLI.
 
 ## Interfaces
 
@@ -45,13 +42,16 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## Forks
 
+- [LLxprt Code](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
 - [Qwen Code](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
+- [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 
 ## Fun
 
 ## Development Tools & Utilities
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Usage analyzer tool + cloud for agentic development tools including Gemini CLI.
 - [ccmanager](https://github.com/kbwo/ccmanager) - Session manager for Gemini CLI (and Claude Code / Codex CLI).
+- [Gemini CLI Logs Prettifier](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
 - [gemini-commit-assistant](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by Gemini CLI.
 - [Gemini-CLI-Git-Ask](https://github.com/ihainan/Gemini-CLI-Git-Ask) - A code analysis tool that enables natural language queries about Git repositories using Google's Gemini CLI.
 - [Gemini-CLI-Context-Engineer](https://github.com/rickscode/Gemini-CLI-Context-Engineer) - A comprehensive template for Context Engineering with Gemini CLI, designed to help AI coding assistants generate more accurate code.
@@ -100,9 +100,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 ## Development Frameworks & Orchestration
 
 - [gemini-code-flow](https://github.com/Theopsguide/gemini-code-flow) - AI-powered development orchestration for Gemini CLI - adapted from Claude Code Flow by ruvnet.
-- [brain](https://github.com/aliafshar/brain) - A multi-agent framework built into GEMINI.md to run on the Gemini CLI.
 - [gemini-cli-commands-demo](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI.
-- [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 
 ## Documentation & Learning Resources
 
