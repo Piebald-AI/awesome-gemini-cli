@@ -25,6 +25,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## 🎉 New Entries
 
+- [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Gemini CLI, Claude Code, Codex CLI, Aider, OpenCode, Amp, etc.
 - [gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) - Gemini CLI wrapper that can serve Google Gemini 2.5 Pro (or Flash) through an OpenAI-compatible API. Plug-and-play with clients that already speak OpenAI like SillyTavern, llama.cpp, LangChain, the VS Code Cline extension, etc.
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - [nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents.  Easily install Gemini CLI and many other tools with Nix.
