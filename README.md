@@ -81,18 +81,13 @@ We'll create a new release highlighting new entries each week. Star this reposit
 - [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis.
 - [mcp-gemini-cli](https://github.com/choplin/mcp-gemini-cli) - A simple MCP (Model Context Protocol) server wrapper for Google's Gemini CLI.
 - [gemini-cli-mcp](https://github.com/InfolabAI/gemini-cli-mcp) - Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings.
-- [gemini-cli-mcp](https://github.com/blesscat/gemini-cli-mcp) - An MCP (Model Context Protocol) server that provides integration with the Gemini CLI tool.
-- [gemini-cli-mcp](https://github.com/DiversioTeam/gemini-cli-mcp) - The Gemini CLI MCP (Model Context Protocol) Server is an open-source Python tool that acts as a bridge between AI assistants and Google's Gemini CLI.
 - [gemini-mcp](https://github.com/neriousy/gemini-mcp) - A simple MCP server for using the Gemini CLI.
 - [gemini-cli-mcp](https://github.com/0xmountaintop/gemini-cli-mcp) - A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.
 
 ## Neovim Plugins
 
 - [gemini-cli.nvim](https://github.com/JonRoosevelt/gemini-cli.nvim) - A Neovim plugin that seamlessly integrates the Gemini CLI into the Neovim environment.
-- [gemini-cli.nvim](https://github.com/marcinjahn/gemini-cli.nvim) - Seamlessly integrate GeminiCLI with Neovim for an enhanced AI-assisted coding experience!
 - [gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) - Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
-- [gemini-nvim](https://github.com/abdullahchand/gemini-nvim) - A Neovim plugin to interact with the Gemini CLI in a vertical split.
-- [gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) - A Neovim plugin for interacting with Google's Gemini CLI.
 
 ## Development Frameworks & Orchestration
 
@@ -101,12 +96,8 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## Documentation & Learning Resources
 
-- [gemini-cli-cheat-sheet](https://github.com/Njengah/gemini-cli-cheat-sheet) - Your complete guide to mastering Gemini CLI - from zero to hero in minutes!
 - [gemini-cli-extension](https://github.com/philschmid/gemini-cli-extension) - Collection of helpful Gemini CLI extensions and commands.
 - [gemini-docs-ext](https://github.com/markmcd/gemini-docs-ext) - Gemini CLI extension that adds Gemini API docs and MCP.
-- [gemini-cli-doc-zhtw](https://github.com/LiuYuWei/gemini-cli-doc-zhtw) - This is Google Gemini CLI document zh-TW version.
-- [GeminiCLI-HandsOn](https://github.com/kaorun55/GeminiCLI-HandsOn) - A hands-on project for developing applications using AI-assisted development tools like Gemini CLI.
-- [gemibook](https://github.com/ngduyanhece/gemibook) - This is the toy project to show case how to code with Gemini CLI.
 
 ## Demo Collections & Examples
 
