@@ -18,7 +18,6 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [Commands & Extensions](#commands--extensions)
 - [MCP Servers](#mcp-servers)
 - [Neovim Plugins](#neovim-plugins)
-- [GitHub Actions & Automation](#github-actions--automation)
 - [Development Frameworks & Orchestration](#development-frameworks--orchestration)
 - [Documentation & Learning Resources](#documentation--learning-resources)
 - [Demo Collections & Examples](#demo-collections--examples)
