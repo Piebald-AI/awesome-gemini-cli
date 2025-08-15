@@ -94,10 +94,6 @@ We'll create a new release highlighting new entries each week. Star this reposit
 - [gemini-nvim](https://github.com/abdullahchand/gemini-nvim) - A Neovim plugin to interact with the Gemini CLI in a vertical split.
 - [gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) - A Neovim plugin for interacting with Google's Gemini CLI.
 
-## GitHub Actions & Automation
-
-- [gemini-cli-action](https://github.com/google-gemini/gemini-cli-action) - A GitHub Action for automating software development tasks using Gemini CLI.
-
 ## Development Frameworks & Orchestration
 
 - [gemini-code-flow](https://github.com/Theopsguide/gemini-code-flow) - AI-powered development orchestration for Gemini CLI - adapted from Claude Code Flow by ruvnet.
