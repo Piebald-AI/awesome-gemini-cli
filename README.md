@@ -4,7 +4,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 <!--**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)-->
 
-We'll create a new release highlighting new entries each week. Star this repository to receive release notifications for the new entries in your GitHub dashboard!
+> We'll create a new release highlighting **new entries** each week. Star this repository to receive **release notifications** for the new entries in your GitHub dashboard!
 
 ## Contents
 
