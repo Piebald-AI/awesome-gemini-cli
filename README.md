@@ -51,7 +51,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## Development Tools & Utilities
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Usage analyzer tool + cloud for agentic development tools including Gemini CLI.
-- [ccmanager](https://github.com/kbwo/ccmanager) - Claude Code / Gemini CLI / Codex CLI Session Manager.
+- [ccmanager](https://github.com/kbwo/ccmanager) - Session manager for Gemini CLI (and Claude Code / Codex CLI).
 - [gemini-commit-assistant](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by Gemini CLI.
 - [Gemini-CLI-Git-Ask](https://github.com/ihainan/Gemini-CLI-Git-Ask) - A code analysis tool that enables natural language queries about Git repositories using Google's Gemini CLI.
 - [Gemini-CLI-Context-Engineer](https://github.com/rickscode/Gemini-CLI-Context-Engineer) - A comprehensive template for Context Engineering with Gemini CLI, designed to help AI coding assistants generate more accurate code.
