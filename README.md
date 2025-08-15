@@ -25,6 +25,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## 🎉 New Entries
 
+- [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - A community provider for the Vercel AI SDK that enables using Google's Gemini models through the Gemini CLI library.
 - [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Gemini CLI, Claude Code, Codex CLI, Aider, OpenCode, Amp, etc.
 - [gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) - Gemini CLI wrapper that can serve Google Gemini 2.5 Pro (or Flash) through an OpenAI-compatible API. Plug-and-play with clients that already speak OpenAI like SillyTavern, llama.cpp, LangChain, the VS Code Cline extension, etc.
@@ -68,7 +69,6 @@ We'll create a new release highlighting new entries each week. Star this reposit
 - [gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
 - [gemini-cli-api](https://github.com/JasonGuoo/gemini-cli-api) - Expose the Gemini CLI ablility to REST ful API.
 - [gemini-cli-router](https://github.com/Jasonzhangf/gemini-cli-router) - Routing your Gemini CLI to openai 3rd party providers.
-- [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - A community provider for the Vercel AI SDK that enables using Google's Gemini models through the Gemini CLI library.
 
 ## Commands & Extensions
 
