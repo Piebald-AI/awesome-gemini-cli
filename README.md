@@ -28,7 +28,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 - [gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) - Gemini CLI wrapper that can serve Google Gemini 2.5 Pro (or Flash) through an OpenAI-compatible API. Plug-and-play with clients that already speak OpenAI like SillyTavern, llama.cpp, LangChain, the VS Code Cline extension, etc.
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - [nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents.  Easily install Gemini CLI and many other tools with Nix.
-- [Terminal Jarvis](https://github.com/BA-CalderonMorales/terminal-jarvis) - A unified command center for AI coding tools. Manage and run claude-code, gemini-cli, qwen-code, opencode, llxprt, and codex from one beautiful terminal interface.
+- [Terminal Jarvis](https://github.com/BA-CalderonMorales/terminal-jarvis) - A unified command center for AI coding tools. Manage and run Claude Code, Gemini CLI, Qwen Code, OpenCode, LLxprt, and Codex CLI from one beautiful terminal interface.
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - GitHub Action that integrates Gemini into your development workflow via the Gemini CLI.
 - [LLxprt Code](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
 - [Gemini CLI Logs Prettifier](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
@@ -52,7 +52,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 ## Development Tools & Utilities
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Usage analyzer tool + cloud for agentic development tools including Gemini CLI.
 - [ccmanager](https://github.com/kbwo/ccmanager) - Claude Code / Gemini CLI / Codex CLI Session Manager.
-- [gemini-commit-assistant](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by gemini-cli.
+- [gemini-commit-assistant](https://github.com/C17AN/gemini-commit-assistant) - AI-based commit message generator, powered by Gemini CLI.
 - [Gemini-CLI-Git-Ask](https://github.com/ihainan/Gemini-CLI-Git-Ask) - A code analysis tool that enables natural language queries about Git repositories using Google's Gemini CLI.
 - [Gemini-CLI-Context-Engineer](https://github.com/rickscode/Gemini-CLI-Context-Engineer) - A comprehensive template for Context Engineering with Gemini CLI, designed to help AI coding assistants generate more accurate code.
 - [gemini-cli-ntfy](https://github.com/nakkulla/gemini-cli-ntfy) - A transparent wrapper for Gemini CLI that sends a notification when Gemini needs your attention.
@@ -65,8 +65,8 @@ We'll create a new release highlighting new entries each week. Star this reposit
 - [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
 - [CLIProxyAPI](https://github.com/luispater/CLIProxyAPI) - Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.
 - [gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
-- [gemini-cli-api](https://github.com/JasonGuoo/gemini-cli-api) - Expose the gemini-cli ablility to REST ful API.
-- [gemini-cli-router](https://github.com/Jasonzhangf/gemini-cli-router) - Routing your gemini-cli to openai 3rd party providers.
+- [gemini-cli-api](https://github.com/JasonGuoo/gemini-cli-api) - Expose the Gemini CLI ablility to REST ful API.
+- [gemini-cli-router](https://github.com/Jasonzhangf/gemini-cli-router) - Routing your Gemini CLI to openai 3rd party providers.
 - [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - A community provider for the Vercel AI SDK that enables using Google's Gemini models through the Gemini CLI library.
 
 ## Commands & Extensions
@@ -89,7 +89,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 - [gemini-cli.nvim](https://github.com/JonRoosevelt/gemini-cli.nvim) - A Neovim plugin that seamlessly integrates the Gemini CLI into the Neovim environment.
 - [gemini-cli.nvim](https://github.com/marcinjahn/gemini-cli.nvim) - Seamlessly integrate GeminiCLI with Neovim for an enhanced AI-assisted coding experience!
-- [gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) - Gemini-cli in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
+- [gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) - Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
 - [gemini-nvim](https://github.com/abdullahchand/gemini-nvim) - A Neovim plugin to interact with the Gemini CLI in a vertical split.
 - [gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) - A Neovim plugin for interacting with Google's Gemini CLI.
 
@@ -107,11 +107,11 @@ We'll create a new release highlighting new entries each week. Star this reposit
 ## Documentation & Learning Resources
 
 - [gemini-cli-cheat-sheet](https://github.com/Njengah/gemini-cli-cheat-sheet) - Your complete guide to mastering Gemini CLI - from zero to hero in minutes!
-- [gemini-cli-extension](https://github.com/philschmid/gemini-cli-extension) - Collection of helpful gemini cli extensions and commands.
+- [gemini-cli-extension](https://github.com/philschmid/gemini-cli-extension) - Collection of helpful Gemini CLI extensions and commands.
 - [gemini-docs-ext](https://github.com/markmcd/gemini-docs-ext) - Gemini CLI extension that adds Gemini API docs and MCP.
-- [gemini-cli-doc-zhtw](https://github.com/LiuYuWei/gemini-cli-doc-zhtw) - This is Google gemini-cli document zh-TW version.
+- [gemini-cli-doc-zhtw](https://github.com/LiuYuWei/gemini-cli-doc-zhtw) - This is Google Gemini CLI document zh-TW version.
 - [GeminiCLI-HandsOn](https://github.com/kaorun55/GeminiCLI-HandsOn) - A hands-on project for developing applications using AI-assisted development tools like Gemini CLI.
-- [gemibook](https://github.com/ngduyanhece/gemibook) - This is the toy project to show case how to code with gemini cli.
+- [gemibook](https://github.com/ngduyanhece/gemibook) - This is the toy project to show case how to code with Gemini CLI.
 
 ## Demo Collections & Examples
 
