@@ -25,6 +25,7 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 ## 🎉 New Entries
 
+- [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Gemini CLI, Claude Code, Codex CLI, Aider, OpenCode, Amp, etc.
 - [gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) - Gemini CLI wrapper that can serve Google Gemini 2.5 Pro (or Flash) through an OpenAI-compatible API. Plug-and-play with clients that already speak OpenAI like SillyTavern, llama.cpp, LangChain, the VS Code Cline extension, etc.
 - [oh-my-logo](https://github.com/shinshin86/oh-my-logo) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
@@ -45,7 +46,6 @@ We'll create a new release highlighting new entries each week. Star this reposit
 
 - [LLxprt Code](https://github.com/acoliver/llxprt-code) - Multi-provider fork of Gemini CLI that keeps up with main. Supports local models as well.
 - [Qwen Code](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
-- [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 
 ## Fun
 
