@@ -1,4 +1,4 @@
-<a href="https://github.com/google-gemini/gemini-cli"><img width="4339" height="1373" alt="banner" src="./assets/banner.png" /></a>
+<a href="https://github.com/google-gemini/gemini-cli" rel="noopener"><img width="4339" height="1373" alt="banner" src="./assets/banner.png" /></a>
 
 # Awesome Gemini CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -6,7 +6,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 <!--**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)-->
 
-> We'll create a new release highlighting **new entries** each week. Star this repository to receive **release notifications** for the new entries in your GitHub dashboard!
+> :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 
 ## Contents
 
