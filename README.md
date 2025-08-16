@@ -1,4 +1,4 @@
-<img width="4339" height="1373" alt="banner" src="./assets/banner.png" />
+<a href="https://github.com/google-gemini/gemini-cli"><img width="4339" height="1373" alt="banner" src="./assets/banner.png" /></a>
 
 # Awesome Gemini CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
