@@ -26,6 +26,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## 🎉 New Entries
 
+- [deepseek-cli](https://github.com/holasoymalva/deepseek-cli) - DeepSeek CLI, a command-line AI coding assistant that leverages the powerful DeepSeek Coder models.
 - [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - A community provider for the Vercel AI SDK that enables using Google's Gemini models through the Gemini CLI library.
 - [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Gemini CLI, Claude Code, Codex CLI, Aider, OpenCode, Amp, etc.
