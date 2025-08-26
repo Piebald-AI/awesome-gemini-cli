@@ -4,12 +4,9 @@
 
 A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
-<!--**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)-->
+**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)
 
 > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
-
-> [!WARNING]
-> These entries have not yet been reviewed for security, but we're in the process.  You're advised to excercise caution.
 
 ## Contents
 
@@ -26,8 +23,6 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [Development Frameworks & Orchestration](#development-frameworks--orchestration)
 - [Documentation & Learning Resources](#documentation--learning-resources)
 - [Demo Collections & Examples](#demo-collections--examples)
-
-## 🎉 New Entries
 
 
 ## Official
