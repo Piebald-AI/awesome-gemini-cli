@@ -24,6 +24,9 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 - [Documentation & Learning Resources](#documentation--learning-resources)
 - [Demo Collections & Examples](#demo-collections--examples)
 
+## 🎉 New Entries
+
+- [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - A powerful proxy that can unify multiple large model APIs (Gemini, OpenAI, Claude...) into a native OpenAI compatible interface.
 
 ## Official
 
