@@ -26,6 +26,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## 🎉 New Entries
 
+- [GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - A /listen feature for Gemini CLI.  Integrate Gemini CLI with Slack and ngrok remotely.
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - A powerful proxy that can unify multiple large model APIs (Gemini, OpenAI, Claude...) into a native OpenAI compatible interface.
 
 ## Official
