@@ -26,6 +26,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 ## 🎉 New Entries
 
+- [geminicli2api](https://github.com/gzzhongqi/geminicli2api) - A FastAPI-based proxy server that converts the Gemini CLI tool into both OpenAI-compatible and native Gemini API endpoints.
 - [Gemini-CLI-Termux](https://github.com/print-yuhuan/Gemini-CLI-Termux) - Provides a one-click deployment solution for Gemini-CLI reverse proxy service for Android Termux users.
 - [GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - A /listen feature for Gemini CLI.  Integrate Gemini CLI with Slack and ngrok remotely.
 - [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - A powerful proxy that can unify multiple large model APIs (Gemini, OpenAI, Claude...) into a native OpenAI compatible interface.
