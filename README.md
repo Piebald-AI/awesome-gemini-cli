@@ -18,6 +18,7 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 - [Forks](#forks)
 - [Fun](#fun)
 - [Development Tools & Utilities](#development-tools--utilities)
+- [SDKs](#sdks)
 - [API Bridges & Proxies](#api-bridges--proxies)
 - [Commands & Extensions](#commands--extensions)
 - [MCP Servers](#mcp-servers)
@@ -31,7 +32,7 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 - [geminicli2api](https://github.com/gzzhongqi/geminicli2api) - A FastAPI-based proxy server that converts the Gemini CLI tool into both OpenAI-compatible and native Gemini API endpoints.
 - [Gemini-CLI-Termux](https://github.com/print-yuhuan/Gemini-CLI-Termux) - Provides a one-click deployment solution for Gemini-CLI reverse proxy service for Android Termux users.
 - [GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - A /listen feature for Gemini CLI.  Integrate Gemini CLI with Slack and ngrok remotely.
-- [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - A powerful proxy that can unify multiple large model APIs (Gemini, OpenAI, Claude...) into a native OpenAI compatible interface.
+- [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - A powerful proxy that can unify multiple large model APIs (Gemini, OpenAI, Claude) into a native OpenAI compatible interface.
 
 ## Official
 
@@ -69,7 +70,7 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 - [gcli-hotkey](https://github.com/hexcreator/gcli-hotkey) - Creates an awesome hotkey to open up Gemini CLI in whichever window you used the hotkey in.
 - [gemini-cli-container](https://github.com/samhann/gemini-cli-container) - A comprehensive DevContainer setup for Google's Gemini CLI, designed to provide a secure, fully-featured development environment.
 
-# SDKs
+## SDKs
 
 - [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - A community provider for the Vercel AI SDK that enables using Google's Gemini models through the Gemini CLI library.
 
