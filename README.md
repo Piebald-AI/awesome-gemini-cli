@@ -12,7 +12,6 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 
 ## Contents
 
-- [**🎉 New Entries**](#-new-entries)
 - [Official](#official)
 - [Interfaces](#interfaces)
 - [Forks](#forks)
@@ -26,13 +25,6 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 - [Development Frameworks & Orchestration](#development-frameworks--orchestration)
 - [Documentation & Learning Resources](#documentation--learning-resources)
 - [Demo Collections & Examples](#demo-collections--examples)
-
-## 🎉 New Entries
-
-- [geminicli2api](https://github.com/gzzhongqi/geminicli2api) - A FastAPI-based proxy server that converts the Gemini CLI tool into both OpenAI-compatible and native Gemini API endpoints.
-- [Gemini-CLI-Termux](https://github.com/print-yuhuan/Gemini-CLI-Termux) - Provides a one-click deployment solution for Gemini-CLI reverse proxy service for Android Termux users.
-- [GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - A /listen feature for Gemini CLI.  Integrate Gemini CLI with Slack and ngrok remotely.
-- [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - A powerful proxy that can unify multiple large model APIs (Gemini, OpenAI, Claude) into a native OpenAI compatible interface.
 
 ## Official
 
@@ -76,6 +68,8 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 
 ## API Bridges & Proxies
 
+- [geminicli2api](https://github.com/gzzhongqi/geminicli2api) - A FastAPI-based proxy server that converts the Gemini CLI tool into both OpenAI-compatible and native Gemini API endpoints.
+- [Gemini-CLI-Termux](https://github.com/print-yuhuan/Gemini-CLI-Termux) - Provides a one-click deployment solution for Gemini-CLI reverse proxy service for Android Termux users.
 - [gemini-openai-proxy](https://github.com/Brioch/gemini-openai-proxy) - Gemini CLI wrapper that can serve Google Gemini 2.5 Pro (or Flash) through an OpenAI-compatible API. Plug-and-play with clients that already speak OpenAI like SillyTavern, llama.cpp, LangChain, the VS Code Cline extension, etc.
 - [gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai) - Transform Google's Gemini models into OpenAI-compatible endpoints using Cloudflare Workers, powered the same infrastructure that drives the official Gemini CLI.
 - [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
@@ -86,6 +80,7 @@ Gemini CLI is an open-source AI agent that brings the power of Gemini directly i
 
 ## Commands & Extensions
 
+- [GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - A /listen feature for Gemini CLI.  Integrate Gemini CLI with Slack and ngrok remotely.
 - [gemini-cli-custom-slash-commands](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) - Some great custom slash commands to supercharge your workflow.
 - [gemini-flow](https://github.com/clduab11/gemini-flow) - rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team.
 - [C.O.R.E.](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for coding agents. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline.
