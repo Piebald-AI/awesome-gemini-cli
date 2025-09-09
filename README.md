@@ -6,7 +6,7 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal.
 
-**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing
+**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)
 
 > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 
