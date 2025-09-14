@@ -10,7 +10,7 @@ Contributions are highly valued! Here's how you can contribute:
 ## Guidelines
 
 - Entries should be related to Gemini CLI (e.g. use it, build something on top of it, upgrade it in some way, etc.)
-- Add your item to the **top** of each section &mdash; new additions deserve more prominence for a time.
+- Add your item to the bottom of the appropriate section
 
 Then you can optionally add a badge to your project's README:
 
