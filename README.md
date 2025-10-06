@@ -76,6 +76,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 
 Software development kits and libraries for integrating Gemini CLI into your applications.
 
+- [gemini-cli-sdk](https://github.com/oneryalcin/gemini-cli-sdk) - Python SDK for Gemini CLI; API-compatible with Claude Code SDK.
 - [ai-sdk-provider-gemini-cli](https://github.com/ben-vargas/ai-sdk-provider-gemini-cli) - Seamless Vercel AI SDK integration that unlocks Gemini's capabilities in Next.js and React applications with minimal configuration.
 
 ## API Bridges & Proxies
