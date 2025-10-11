@@ -67,6 +67,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
+- [Rulesync](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 - [nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.
 - [Terminal Jarvis](https://github.com/BA-CalderonMorales/terminal-jarvis) - Ultimate command center unifying multiple AI coding assistants in one elegant interface. Switch between tools seamlessly and manage sessions efficiently.
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.
@@ -78,7 +79,6 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [gemini-cli-ntfy](https://github.com/nakkulla/gemini-cli-ntfy) - Smart notification wrapper that alerts you when Gemini CLI needs input, perfect for long-running tasks or background operations.
 - [gcli-hotkey](https://github.com/hexcreator/gcli-hotkey) - Creates an awesome hotkey to open up Gemini CLI in whichever window you used the hotkey in.
 - [gemini-cli-container](https://github.com/samhann/gemini-cli-container) - A comprehensive DevContainer setup for Google's Gemini CLI, designed to provide a secure, fully-featured development environment.
-- [Rulesync](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 
 ## SDKs
 
