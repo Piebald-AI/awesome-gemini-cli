@@ -15,23 +15,22 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 
 ## Contents
 
-- [Awesome Gemini CLI ](#awesome-gemini-cli-)
-  - [Contents](#contents)
-  - [Official](#official)
-  - [Interfaces](#interfaces)
-  - [Forks](#forks)
-  - [Fun](#fun)
-  - [Development Tools \& Utilities](#development-tools--utilities)
-  - [SDKs](#sdks)
-  - [API Bridges \& Proxies](#api-bridges--proxies)
-  - [Commands \& Extensions](#commands--extensions)
+- [Contents](#contents)
+- [Official](#official)
+- [Interfaces](#interfaces)
+- [Forks](#forks)
+- [Fun](#fun)
+- [Development Tools \& Utilities](#development-tools--utilities)
+- [SDKs](#sdks)
+- [API Bridges \& Proxies](#api-bridges--proxies)
+- [Commands \& Extensions](#commands--extensions)
 - [Prompts](#prompts)
-  - [MCP Servers](#mcp-servers)
-  - [Neovim Plugins](#neovim-plugins)
-  - [Development Frameworks \& Orchestration](#development-frameworks--orchestration)
-  - [Documentation \& Learning Resources](#documentation--learning-resources)
-  - [Demo Collections \& Examples](#demo-collections--examples)
-  - [Contributing](#contributing)
+- [MCP Servers](#mcp-servers)
+- [Neovim Plugins](#neovim-plugins)
+- [Development Frameworks \& Orchestration](#development-frameworks--orchestration)
+- [Documentation \& Learning Resources](#documentation--learning-resources)
+- [Demo Collections \& Examples](#demo-collections--examples)
+- [Contributing](#contributing)
 
 ## Official
 
@@ -112,7 +111,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [gemini-flow](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
 - [C.O.R.E.](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for coding agents. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline.
 
-# Prompts
+## Prompts
 
 - [gemini-cli-prompt-library](https://github.com/harish-garg/gemini-cli-prompt-library) - 30+ professional prompts for Gemini CLI.
 
