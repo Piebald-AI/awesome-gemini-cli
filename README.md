@@ -15,19 +15,23 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 
 ## Contents
 
-- [Official](#official)
-- [Interfaces](#interfaces)
-- [Forks](#forks)
-- [Fun](#fun)
-- [Development Tools & Utilities](#development-tools--utilities)
-- [SDKs](#sdks)
-- [API Bridges & Proxies](#api-bridges--proxies)
-- [Commands & Extensions](#commands--extensions)
-- [MCP Servers](#mcp-servers)
-- [Neovim Plugins](#neovim-plugins)
-- [Development Frameworks & Orchestration](#development-frameworks--orchestration)
-- [Documentation & Learning Resources](#documentation--learning-resources)
-- [Demo Collections & Examples](#demo-collections--examples)
+- [Awesome Gemini CLI ](#awesome-gemini-cli-)
+  - [Contents](#contents)
+  - [Official](#official)
+  - [Interfaces](#interfaces)
+  - [Forks](#forks)
+  - [Fun](#fun)
+  - [Development Tools \& Utilities](#development-tools--utilities)
+  - [SDKs](#sdks)
+  - [API Bridges \& Proxies](#api-bridges--proxies)
+  - [Commands \& Extensions](#commands--extensions)
+- [Prompts](#prompts)
+  - [MCP Servers](#mcp-servers)
+  - [Neovim Plugins](#neovim-plugins)
+  - [Development Frameworks \& Orchestration](#development-frameworks--orchestration)
+  - [Documentation \& Learning Resources](#documentation--learning-resources)
+  - [Demo Collections \& Examples](#demo-collections--examples)
+  - [Contributing](#contributing)
 
 ## Official
 
@@ -75,6 +79,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [gemini-cli-ntfy](https://github.com/nakkulla/gemini-cli-ntfy) - Smart notification wrapper that alerts you when Gemini CLI needs input, perfect for long-running tasks or background operations.
 - [gcli-hotkey](https://github.com/hexcreator/gcli-hotkey) - Creates an awesome hotkey to open up Gemini CLI in whichever window you used the hotkey in.
 - [gemini-cli-container](https://github.com/samhann/gemini-cli-container) - A comprehensive DevContainer setup for Google's Gemini CLI, designed to provide a secure, fully-featured development environment.
+- [Rulesync](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 
 ## SDKs
 
