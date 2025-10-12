@@ -76,9 +76,6 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [gemini-commit-assistant](https://github.com/C17AN/gemini-commit-assistant) - Intelligent commit message generator that analyzes your changes and creates meaningful, conventional commit messages automatically using Gemini's understanding.
 - [Gemini-CLI-Git-Ask](https://github.com/ihainan/Gemini-CLI-Git-Ask) - A code analysis tool that enables natural language queries about Git repositories using Google's Gemini CLI.
 - [Gemini-CLI-Context-Engineer](https://github.com/rickscode/Gemini-CLI-Context-Engineer) - Advanced context engineering template that dramatically improves code generation accuracy by providing structured project context to Gemini CLI.
-- [gemini-cli-ntfy](https://github.com/nakkulla/gemini-cli-ntfy) - Smart notification wrapper that alerts you when Gemini CLI needs input, perfect for long-running tasks or background operations.
-- [gcli-hotkey](https://github.com/hexcreator/gcli-hotkey) - Creates an awesome hotkey to open up Gemini CLI in whichever window you used the hotkey in.
-- [gemini-cli-container](https://github.com/samhann/gemini-cli-container) - A comprehensive DevContainer setup for Google's Gemini CLI, designed to provide a secure, fully-featured development environment.
 
 ## SDKs
 
@@ -109,7 +106,6 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [GeminiCLI_Slash_Listen](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - Innovative `/listen` command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.
 - [gemini-cli-custom-slash-commands](https://github.com/amitkmaraj/gemini-cli-custom-slash-commands) - Curated collection of productivity-boosting custom slash commands that extend Gemini CLI with specialized workflows and shortcuts.
 - [gemini-flow](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
-- [C.O.R.E.](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for coding agents. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline.
 
 ## Prompts
 
