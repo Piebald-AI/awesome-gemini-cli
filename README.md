@@ -53,8 +53,6 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 
 - [LLxprt Code](https://github.com/vybestack/llxprt-code) - An open-source multi-provider (including local) fork of Gemini CLI. Use whatever LLM you want to code in your terminal.
 - [iFlow CLI](https://github.com/iflow-ai/iflow-cli) - Powerful fork that extends Gemini CLI with repository analysis, context interpretation, and complex workflow automation. Perfect for teams needing advanced orchestration capabilities.
-- [deepseek-cli](https://github.com/holasoymalva/deepseek-cli) - Fork optimized for the DeepSeek Coder models, offering specialized support for code generation and analysis tasks with DeepSeek's unique capabilities.
-- [solar-code](https://github.com/serithemage/solar-code) - Solar Pro2 powered code assistant based on Gemini CLI.
 - [Qwen Code](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
 
 ## Fun
