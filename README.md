@@ -4,11 +4,9 @@
 
 A curated list of awesome tools, extensions, and resources for [Gemini CLI](https://github.com/google-gemini/gemini-cli)&mdash;an open-source AI agent that brings the power of Gemini directly into your terminal.
 
-<!-- **Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing) -->
+**Developed something cool for Gemini CLI?**  Add it to this list!  See [Contributing.](#contributing)
 
-**PLEASE NOTE: We have a PR to add this awesome list to [sindresorhus/awesome](https://github.com/sindresorhus/awesome/pull/3621).  Please review/👍 it to encourage it to be merged.**
-
-<!-- > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard! -->
+> :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 
 **👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
