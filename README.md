@@ -123,6 +123,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 
 Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
 
+- [nvim Gemini Companion](https://github.com/gutsavgupta/nvim-gemini-companion) - A Neovim plugin to integrate Gemini CLI well (+ Qwen-code now).
 - [gemini-cli.nvim](https://github.com/JonRoosevelt/gemini-cli.nvim) - Native Neovim integration bringing Gemini's AI capabilities directly into your editor with keybindings, commands, and buffer manipulation support.
 - [gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) - Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
 
