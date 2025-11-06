@@ -10,7 +10,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 -->
 
 > [!tip]
-> **Track your local Gemini CLI locally with [Splitrail](https://github.com/Piebald-AI/splitrail).**
+> **Track your local Gemini CLI usage with [Splitrail](https://github.com/Piebald-AI/splitrail).**
 
 **👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
