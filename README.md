@@ -96,7 +96,6 @@ Services that expose Gemini CLI functionality through standard API protocols.
 - [gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!
 - [CLIProxyAPI](https://github.com/router-form-me/CLIProxyAPI) - Wrap Gemini CLI as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API.
 - [gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
-- [gemini-cli-router](https://github.com/Jasonzhangf/gemini-cli-router) - A proxy system that intercepts Google Gemini CLI requests and routes them to alternative AI providers like SHUAIHONG, DeepSeek, OpenAI, Claude, and others. It provides a zero-modification approach - no need to touch the official Gemini CLI source code.
 
 ## Commands & Extensions
 
