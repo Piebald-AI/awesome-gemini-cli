@@ -154,7 +154,6 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 - [gemini-cli-media-generation](https://github.com/vladkol/gemini-cli-media-generation) - An example of using Gemini CLI with MCP Servers for Genmedia and Gemini 2.5 Flash Image model (Nano-banana)
 - [gemini-cli-demos](https://github.com/palladius/gemini-cli-demos) - Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.
 - [cli-demo-cookbook](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
-- [Google-Gemini-CLI](https://github.com/nDimensions-AI/Google-Gemini-CLI) - Master the Gemini CLI: A Live, Interactive Webinar.
 
 ## Contributing
 
