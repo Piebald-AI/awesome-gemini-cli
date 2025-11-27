@@ -33,6 +33,10 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 - [Demo Collections \& Examples](#demo-collections--examples)
 - [Contributing](#contributing)
 
+## :tada: New
+
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+
 ## Official
 
 Core tools and resources maintained by the Gemini CLI team.
@@ -66,6 +70,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 - [Docker Gemini CLI](https://github.com/tgagor/docker-gemini-cli) - Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.
 - [Rulesync](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 - [Nix AI Tools](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.
@@ -73,7 +78,6 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.
 - [ccmanager](https://github.com/kbwo/ccmanager) - Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.
 - [Gemini CLI Logs Prettifier](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
-- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 
 ## Browser Extensions
 
