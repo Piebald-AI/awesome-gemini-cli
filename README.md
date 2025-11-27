@@ -9,14 +9,16 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 -->
 
-> [!tip]
-> **Track your local Gemini CLI usage with [Splitrail](https://github.com/Piebald-AI/splitrail).**
 
-**👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
 ## :tada: New
 
 - [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+
+> [!tip]
+> **Track your local Gemini CLI usage with [Splitrail](https://github.com/Piebald-AI/splitrail).**
+
+**👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
 ## Contents
 
