@@ -14,6 +14,10 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 
 **👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
+## :tada: New
+
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+
 ## Contents
 
 - [Contents](#contents)
@@ -32,10 +36,6 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 - [Documentation \& Learning Resources](#documentation--learning-resources)
 - [Demo Collections \& Examples](#demo-collections--examples)
 - [Contributing](#contributing)
-
-## :tada: New
-
-- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 
 ## Official
 
