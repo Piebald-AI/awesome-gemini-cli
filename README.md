@@ -175,6 +175,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [gemini-cli-mcp](https://github.com/InfolabAI/gemini-cli-mcp) - Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings.
 - [gemini-mcp](https://github.com/neriousy/gemini-mcp) - A simple MCP server for using the Gemini CLI.
 - [gemini-cli-mcp](https://github.com/0xmountaintop/gemini-cli-mcp) - A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Remote MCP server with free tier.
 
 ## Neovim Plugins
 
