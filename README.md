@@ -215,3 +215,7 @@ Cool projects that don't pertain to Gemini CLI specifically but do utilitize Gem
 ## Contributing
 
 Contributions are highly valued!  See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## API Bridges & Proxies
+
+- [SkillBoss](https://skillboss.co) - **Backed by OpenAI Startup Fund & Amazon**. Unified API gateway for 100+ AI services with a single key. OpenAI-compatible endpoint supports GPT-5, Claude Opus 4.5, Gemini, video generation (Veo 3.1), image generation (DALL-E 3, Flux), voice (ElevenLabs), and infrastructure services. Native integration with Gemini CLI, Claude Code, Cursor, and Windsurf.
