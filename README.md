@@ -120,6 +120,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Comprehensive usage analytics platform that tracks and optimizes your Gemini CLI workflows, helping teams understand and improve their AI-assisted development patterns.
 - [ccmanager](https://github.com/kbwo/ccmanager) - Essential session management tool that saves, restores, and organizes multiple Gemini CLI sessions, perfect for juggling multiple projects or experiments.
 - [Gemini CLI Logs Prettifier](https://github.com/Manamama/Puzzles_for_AIs/tree/main/code/Gemini%20CLI%20logs%20prettifier) - Renders the logs human readable (prettifies them) and browsable as interlinked HTML, with thoughtful explanations and clickable links.
+- [**claude-skills**](https://github.com/alirezarezvani/claude-skills) - 177 skill packages for Gemini CLI and 10 other AI coding tools. Covers engineering, marketing, product, compliance, and advisory domains. Each skill is a structured SKILL.md with optional Python tools and reference documents. Convert via `scripts/convert.sh --tool gemini-cli`.
 
 ## Browser Extensions
 
