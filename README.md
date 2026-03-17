@@ -93,6 +93,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 
 ## Agent Orchestration & CLI Tools
 
+- [Tars](https://tars.saccolabs.com) - A local-first autonomous supervisor and sidekick powered by Google Gemini. Features background persistence (heartbeat), tiered local memory, multi-channel notifications (Discord/WhatsApp), and self-healing background services. Designed for reliable, long-running agentic orchestration in the terminal.
 - [hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 - [squads-cli](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
 
