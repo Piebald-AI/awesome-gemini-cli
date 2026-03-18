@@ -149,6 +149,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 - [gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge) - Server application that extends the Google Gemini CLI with MCP toolkit and OpenAI-compatible API bridge.
 
 ## Commands & Extensions
+- [**Task Monitor**](https://github.com/davidwiet/task-monitor) - Prevents agent loops via message tracking and plays auditory notifications for long tasks or out-of-focus prompts.
 
 **👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)** \
 Custom commands and extensions that add new capabilities to Gemini CLI.
