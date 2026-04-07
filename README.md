@@ -235,6 +235,9 @@ Cool projects that don't pertain to Gemini CLI specifically but do utilitize Gem
 
 - [Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.
 
+## Marketplaces
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and distribute community-built agent capabilities.
 ## Contributing
 
 Contributions are highly valued!  See [CONTRIBUTING.md](CONTRIBUTING.md).
