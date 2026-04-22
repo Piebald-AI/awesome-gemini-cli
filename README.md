@@ -239,6 +239,7 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 Cool projects that don't pertain to Gemini CLI specifically but do utilitize Gemini.
 
 - [Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.
+- [toprank](https://github.com/nowork-studio/toprank) - Claude Code plugin for SEO and Google Ads that includes a Gemini cross-model review skill. Uses Gemini for second-opinion reviews on Google Ads campaigns, SEO metadata, and schema markup — leveraging Gemini's native Google ecosystem knowledge for higher-quality decisions than Claude alone. MIT, 107 stars.
 
 ## Contributing
 
