@@ -215,6 +215,8 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [TokRepo MCP Server](https://github.com/henu-wang/tokrepo-mcp-server) - Search and install AI skills, prompts, MCP configs, and workflows from TokRepo from Gemini CLI and other MCP clients.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run via Pollinations and Stable Horde free tiers. Works with any MCP client including Gemini CLI.
 
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Python Click/Typer CLI as an MCP server. Zero-code transformation that introspects CLI commands and exposes them as MCP tools. Works with any MCP client including Gemini CLI. `pip install click-to-mcp`
+
 ## Neovim Plugins
 
 Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
