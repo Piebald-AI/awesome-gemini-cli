@@ -140,7 +140,6 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [OpenAccountants](https://github.com/openaccountants/openaccountants) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
 - [gemini-discord](https://github.com/Yamato-main/gemini-discord) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
 
-
 ## Fun
 
 Playful and creative tools inspired by or that add personality to Gemini CLI.
