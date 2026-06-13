@@ -176,6 +176,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Wasla](https://github.com/The-Untitled-Org/wasla) - TypeScript CLI that syncs agents, MCP configs, skills, commands, and workflow assets across Gemini CLI, Claude Code, Codex, OpenCode/OpenClaw, and GitHub Copilot workflows.
 - [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard for unattended Gemini CLI runs. One hotkey covers the screen and blocks input while the agent keeps running (no sleep), and the locked screen glows plus fires a notification when Gemini CLI needs input or finishes, via a `lockpaw ping` hook. Touch ID unlock. Also works with Claude Code and Codex. Native Swift, free, open source.
 - [DOS](https://github.com/anthony-chaudhary/dos-kernel) - Deterministic trust kernel for coding agents: hooks that verify "done" claims against git evidence and refuse file collisions between concurrent agents. Wires into Gemini CLI with `dos init --hooks gemini`; also ships an MCP server. Python, MIT.
+- [skillet](https://github.com/Brattlof/skillet) - Zero-dependency Go CLI and package manager that installs skills, slash commands, hooks, and MCP servers across Gemini CLI, Claude Code, Cursor, Codex, Copilot, and Cline.
 
 ## Browser Extensions
 
