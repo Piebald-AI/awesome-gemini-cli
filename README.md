@@ -180,6 +180,8 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [DOS](https://github.com/anthony-chaudhary/dos-kernel) - Deterministic trust kernel for coding agents: hooks that verify "done" claims against git evidence and refuse file collisions between concurrent agents. Wires into Gemini CLI with `dos init --hooks gemini`; also ships an MCP server. Python, MIT.
 - [skillet](https://github.com/Brattlof/skillet) - Zero-dependency Go CLI / package manager that installs Agent Skills and MCP servers into Gemini CLI (and other tools), plus Claude Code slash commands and hooks.
 
+- [EGC](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with `npm install -g @egchq/egc`.
+
 ## Browser Extensions
 
 - [SRT Subtitle Translator Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - Browser-based tool to translate SRT subtitles using your Gemini subscription via CLI Proxy API with automatic validation/error correction - no API keys needed.
