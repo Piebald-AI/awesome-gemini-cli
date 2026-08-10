@@ -196,7 +196,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [DOS](https://github.com/anthony-chaudhary/dos-kernel) - Deterministic trust kernel for coding agents: hooks that verify "done" claims against git evidence and refuse file collisions between concurrent agents. Wires into Gemini CLI with `dos init --hooks gemini`; also ships an MCP server. Python, MIT.
 - [skillet](https://github.com/Brattlof/skillet) - Zero-dependency Go CLI / package manager that installs Agent Skills and MCP servers into Gemini CLI (and other tools), plus Claude Code slash commands and hooks.
 - [EGC](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory for Gemini CLI and 12 other AI coding tools. SQLite-backed state survives context resets, install with `npm install -g @egchq/egc`.
-- [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native status companion for Gemini CLI, Claude Code, Codex, Grok, and Cursor sessions. Shows local working, stalled, and your-turn state, and tracks Gemini Pro and Flash quota separately, without an Agent Island account or product telemetry. macOS and Windows.
+- [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native status companion for Antigravity, Claude Code, Codex, Grok, and Cursor sessions. Shows local working, stalled, and your-turn state, and reads the Antigravity quota summary, whose Gemini pool covers Flash and Pro together. No account, no telemetry. macOS and Windows.
 
 ## Browser Extensions
 
