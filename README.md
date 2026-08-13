@@ -260,6 +260,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [GoodMemory](https://github.com/hjqcan/GoodMemory) - Local-first durable memory for Gemini CLI through standalone MCP, with scoped recall, provenance and trace inspection, and explicit forgetting. Read-only by default with opt-in governed writes; install with `npm install -g goodmemory@0.7.2` and follow the [Gemini CLI setup guide](https://github.com/hjqcan/GoodMemory/blob/main/docs/GoodMemory-Gemini-CLI-Setup-Guide.md).
 - [RunAPI MCP](https://github.com/runapi-ai/mcp) - Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
 - [AISO Tools MCP](https://aisotools.com/mcp) - Query a catalog of 1,636 AI tools from the CLI: keyword/category/pricing search, side-by-side comparison, and alternatives lookup, with a canonical citation URL on every result. Remote Streamable HTTP, no API key. Works with any MCP client including Gemini CLI: `gemini mcp add --transport http aisotools https://aisotools.com/api/mcp`.
+- [Lians](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
 
 ## Neovim Plugins
 
