@@ -198,6 +198,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [MCP Config Doctor](https://mcpconfigdoctor.online/) - Browser-local diagnostic that validates Gemini CLI `~/.gemini/settings.json` MCP server entries (shape, env/secret references, transport fields). Also covers Claude Code, Codex CLI, and VS Code MCP configs. No account, no telemetry, no remote calls — runs entirely in the browser.
 - [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native status companion for Gemini CLI, Claude Code, Codex, Grok, and Cursor sessions. Shows local working, stalled, and your-turn state, and tracks Gemini Pro and Flash quota separately, without an Agent Island account or product telemetry. macOS and Windows.
 - [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents, available to Gemini CLI through a remote OAuth MCP server.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source CLI that auto-configures Gemini CLI with an MCP bridge to 2,000+ AI tools and 200+ models using one API key, including web search, social data, multimodal generation, and cloud sandboxes.
 
 ## Browser Extensions
 
