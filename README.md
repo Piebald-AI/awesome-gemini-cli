@@ -157,6 +157,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [16-eyes](https://github.com/kigiela/16-eyes) - AI-driven security audits via custom Gemini CLI commands and subagents (also supports Claude Code, Cursor, GitHub Copilot) — profiles the repo, verifies every finding, adversarially disproves high-impact ones before they reach the report. Install via `npx 16-eyes install --target gemini`.
 - [wiki](https://github.com/plasma-ai/wiki) - Indexed Markdown knowledge bases with a CLI and installable Agent Skill. `wiki install` writes the skill to `~/.agents/skills`, which Gemini CLI discovers.
 - [ArmorGemini](https://github.com/armoriq/armorGemini) - Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via `BeforeTool` / `AfterTool` hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: `curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash`.
+- [Punchcard](https://github.com/Maksim-Burtsev/punchcard) - Architecture-level code review grounded in thirty engineering books distilled into 78 principles. Three independent passes over a working tree, branch or PR, merged into one verdict; every blocker demonstrated by running the code. Install with `npx skills add Maksim-Burtsev/punchcard -a gemini-cli`.
 
 ## Fun
 
