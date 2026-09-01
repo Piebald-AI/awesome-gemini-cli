@@ -61,20 +61,24 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 ## Contents
 
 - [Contents](#contents)
+- [New](#tada-new)
 - [Official](#official)
 - [Interfaces](#interfaces)
 - [Forks](#forks)
+- [Agent Orchestration \& CLI Tools](#agent-orchestration--cli-tools)
 - [Fun](#fun)
 - [Development Tools \& Utilities](#development-tools--utilities)
+- [Browser Extensions](#browser-extensions)
 - [SDKs](#sdks)
 - [API Bridges \& Proxies](#api-bridges--proxies)
 - [Commands \& Extensions](#commands--extensions)
 - [Prompts](#prompts)
+- [Education \& Study Tools](#education--study-tools)
 - [MCP Servers](#mcp-servers)
 - [Neovim Plugins](#neovim-plugins)
-- [Development Frameworks \& Orchestration](#development-frameworks--orchestration)
-- [Documentation \& Learning Resources](#documentation--learning-resources)
-- [Demo Collections \& Examples](#demo-collections--examples)
+- [Frameworks](#frameworks)
+- [Documentation \& Examples](#documentation--examples)
+- [Non-Gemini CLI](#non-gemini-cli)
 - [Contributing](#contributing)
 
 ## Official
