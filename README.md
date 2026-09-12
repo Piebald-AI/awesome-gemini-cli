@@ -165,6 +165,8 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [iOS Agent Skill](https://github.com/Nagarjuna2997/ios-agent-skill) - Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.
 
 
+- [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+
 ## Fun
 
 Playful and creative tools inspired by or that add personality to Gemini CLI.
