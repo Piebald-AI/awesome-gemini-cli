@@ -168,6 +168,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 
 
 - [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+- [AIHawk](https://github.com/feder-cr/AIHawk) - Gives Gemini CLI a real Firefox to drive from plain-English instructions: opens pages, clicks, types, reads and screenshots through the real pointer and keyboard. Open source, MIT. Install via `gemini extensions install https://github.com/feder-cr/AIHawk`.
 
 ## Fun
 
