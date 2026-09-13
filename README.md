@@ -164,6 +164,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [Punchcard](https://github.com/Maksim-Burtsev/punchcard) - Architecture-level code review grounded in thirty engineering books distilled into 78 principles. Three independent passes over a working tree, branch or PR, merged into one verdict; every blocker demonstrated by running the code. Install with `npx skills add Maksim-Burtsev/punchcard -a gemini-cli`.
 - [Knowledge Delta Skills](https://github.com/sergeyizmailov/knowledge-delta-skills) - Portable `SKILL.md` skills for media buying, frontend, security, research, and skill authoring, each kept to what a frontier model does not already reliably know. Copy any skill directory into `~/.gemini/skills/` and Gemini CLI discovers it.
 - [iOS Agent Skill](https://github.com/Nagarjuna2997/ios-agent-skill) - Gemini CLI extension with Swift development guidance, read-only code review tools, and local Apple source/reference retrieval.
+- [LintLang](https://github.com/hermes-labs-ai/lintlang) - Static linter and Gemini CLI extension for agent instructions, tool descriptions, and prompt configuration.
 
 
 - [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
