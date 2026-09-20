@@ -168,8 +168,8 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
 - [AIHawk](https://github.com/feder-cr/AIHawk) - Gives Gemini CLI a real Firefox to drive from plain-English instructions: opens pages, clicks, types, reads and screenshots through the real pointer and keyboard. Open source, MIT. Install via `gemini extensions install https://github.com/feder-cr/AIHawk`.
 - [kgai](https://github.com/kgaidev/kgai-gemini) - Shared decision memory for AI dev teams: your agent records why the code changed (and the dead ends it ruled out), recalls it before the next edit, and syncs it across the team without merge conflicts. Local-first, immutable, engine installs itself on first run.
-
 - [GTD Brain](https://github.com/minosin/gtdbrain-gemini-extension) - Getting Things Done (GTD) task board for Gemini CLI: capture to your Inbox, next actions by context, projects, Waiting For and a guided weekly review over a hosted MCP server, plus a `GEMINI.md` context file and `/gtd:*` commands. Sign in with an email code, no API key; same board as the GTD Brain web, iOS and Android apps. Install: `gemini extensions install https://github.com/minosin/gtdbrain-gemini-extension`.
+
 ## Fun
 
 Playful and creative tools inspired by or that add personality to Gemini CLI.
