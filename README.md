@@ -106,6 +106,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [Qwen Code](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
 
 ## Agent Orchestration & CLI Tools
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 - [Ralph Harness](https://github.com/rxdt/py_ralph_frame) - Tiny Python scaffold for running Gemini CLI, Claude Code, Codex CLI, and similar coding agents in guarded local loops. It uses repo-local specs, fresh-context iterations, hard caps, git-hook gates, CI verification, and coverage gates.
 - [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator that coordinates Gemini CLI alongside Claude Code and Codex CLI. Spawns parallel coding agents from a single goal, verifies with tests, auto-commits. Deterministic Python coordination, zero LLM tokens on orchestration.
