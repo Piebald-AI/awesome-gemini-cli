@@ -291,6 +291,8 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [Glasser](https://github.com/glasser-ai/plugins) - One key to 1,000+ paid third-party data APIs, pay per call: person and company enrichment, SEO and SERP, web scraping, places, news, scholar and social data. The agent searches the catalog, inspects the exact price, runs the endpoint and reports the charge; failed calls and empty results cost $0.00. Remote Streamable HTTP with OAuth sign-in. Works with Gemini CLI: `gemini mcp add --transport http glasser https://api.glasser.ai/mcp`.
 - [Minds](https://github.com/minds-ai-co/minds-mcp) - Synthetic market research: create AI audiences, interview them and run studies such as MaxDiff, conjoint and NPS. Remote MCP server with OAuth; installable as a Gemini CLI extension.
 - [SkillAgent](https://skillagent.dev) - Remote MCP server (Streamable HTTP, no auth) for searching ~3,500 agent skills, rules files (including Gemini rules) and MCP servers indexed hourly from GitHub, with project-based recommendations and per-agent install instructions for Gemini CLI. Install: `gemini mcp add --transport http skillagent https://skillagent.dev/mcp`.
+- [Vestige](https://github.com/samvallad33/vestige) - Memory system for coding agents: backfill ranks earlier records as candidate causes of a fresh failure even when they share no vocabulary with it, the composed graph records which memories were used together and surfaces never-tried combinations, retrieval decays on an FSRS-6 schedule, and receipts fail closed after compaction. Single Rust binary, local only. Install: `gemini extensions install https://github.com/samvallad33/vestige-gemini`.
+
 
 ## Neovim Plugins
 
