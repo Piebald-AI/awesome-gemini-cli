@@ -174,6 +174,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [isitdone](https://github.com/raimondasl/isitdone-gemini) - Gemini CLI extension that refuses to let the agent end its turn claiming "done" until the repository's real test, typecheck and lint commands pass. An `AfterAgent` hook runs them on the exact working tree and feeds the failing output back; an `AfterTool` hook warns when an edit weakened a test. No LLM calls, no network. Install via `gemini extensions install https://github.com/raimondasl/isitdone-gemini`.
 - [GTD Brain](https://github.com/minosin/gtdbrain-gemini-extension) - Getting Things Done (GTD) task board for Gemini CLI: capture to your Inbox, next actions by context, projects, Waiting For and a guided weekly review over a hosted MCP server, plus a `GEMINI.md` context file and `/gtd:*` commands. Sign in with an email code, no API key; same board as the GTD Brain web, iOS and Android apps. Install: `gemini extensions install https://github.com/minosin/gtdbrain-gemini-extension`.
 - [SuperSearch](https://github.com/hermes-labs-ai/supersearch) - Local Python CLI/library that fans out bounded searches across web, code, community, and research sources and returns source-explicit JSON receipts.
+- [Clera](https://github.com/getclera/mcp) - Gemini CLI extension for hiring: search 210,000+ vetted startup candidates, review Clera's picks for your open roles and request intros through Clera's hosted OAuth MCP server.
 
 ## Fun
 
