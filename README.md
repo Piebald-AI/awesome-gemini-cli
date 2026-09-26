@@ -225,6 +225,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Hermes Jailbench](https://github.com/hermes-labs-ai/hermes-jailbench) - Repeatable jailbreak test harness for Anthropic/OpenAI-compatible endpoints. It emits deterministic refusal/partial/compliance classifications and includes a no-key dry-run and Gemini CLI extension.
 - [Archcore](https://github.com/archcore-ai/archcore) - Git-native context engineering CLI and MCP server for AI coding agents; `archcore init --agent gemini-cli` wires Gemini CLI hooks and MCP.
 - [anotifier](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor) - Desktop toasts, ntfy phone push and webhooks when Gemini CLI finishes a task or needs input, wired through its hooks by a one-command setup. Zero-dependency Node CLI whose single config also covers Claude Code, Codex CLI and Cursor.
+- [Agent Cat](https://agentcat.app) - Free macOS/Windows menu-bar app that shows Gemini CLI and Antigravity usage and limits next to Claude Code and Codex, read from local files.
 
 ## Browser Extensions
 
