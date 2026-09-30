@@ -176,6 +176,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [Clera](https://github.com/getclera/mcp) - Gemini CLI extension for hiring: search 210,000+ vetted startup candidates, review Clera's picks for your open roles and request intros through Clera's hosted OAuth MCP server.
 - [Hermeneutic](https://github.com/hermes-labs-ai/hermeneutic) - Gemini CLI extension that reviews final-response wording for completion and certainty claims, then requests at most one evidence-focused revision through an `AfterAgent` hook. Runs the deterministic check locally.
 - [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Gemini CLI extension (MCP server + skill) that tells the agent what changed in your Python dependencies since the model's training cutoff: a static diff of each library's public API between the release at the cutoff and the version your lockfile pins, with no model calls or API key. Install via `gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff`.
+- [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
 
 ## Fun
 
