@@ -176,6 +176,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [Clera](https://github.com/getclera/mcp) - Gemini CLI extension for hiring: search 210,000+ vetted startup candidates, review Clera's picks for your open roles and request intros through Clera's hosted OAuth MCP server.
 - [Hermeneutic](https://github.com/hermes-labs-ai/hermeneutic) - Gemini CLI extension that reviews final-response wording for completion and certainty claims, then requests at most one evidence-focused revision through an `AfterAgent` hook. Runs the deterministic check locally.
 - [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Gemini CLI extension (MCP server + skill) that tells the agent what changed in your Python dependencies since the model's training cutoff: a static diff of each library's public API between the release at the cutoff and the version your lockfile pins, with no model calls or API key. Install via `gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff`.
+- [8B AI Website Builder](https://github.com/8bsite/8b-agent-plugin) - Gemini CLI extension that builds an animated one-page website: the agent picks an 8B generated design, writes the copy and returns a preview link, plain-word edits and one HTML file. Remote MCP `https://mcp.8b.com/mcp`, no account or API key. Install: `gemini extensions install https://github.com/8bsite/8b-agent-plugin`.
 
 ## Fun
 
