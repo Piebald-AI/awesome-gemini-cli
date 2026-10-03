@@ -308,7 +308,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [Vestige](https://github.com/samvallad33/vestige) - Memory system for coding agents: backfill ranks earlier records as candidate causes of a fresh failure even when they share no vocabulary with it, the composed graph records which memories were used together and surfaces never-tried combinations, retrieval decays on an FSRS-6 schedule, and receipts fail closed after compaction. Single Rust binary, local only. Install: `gemini extensions install https://github.com/samvallad33/vestige-gemini`.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - MCP server that lets Gemini CLI see and drive the Android Emulator on macOS: screenshots, UI tree in dp, tap/type, dark mode, RTL, font scale, logcat. Free, MIT, native macOS app (macOS 26+, Apple silicon) with a built-in stdio server. Install: `gemini mcp add --scope user oh-my-android ohmyandroid-mcp`.
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI and stdio MCP server. Gives agents scoped, expiring access to notes and supports device sync. MIT licensed.
-
+- [Bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.
 
 ## Neovim Plugins
 
