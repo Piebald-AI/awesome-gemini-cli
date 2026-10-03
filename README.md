@@ -178,6 +178,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [Hermeneutic](https://github.com/hermes-labs-ai/hermeneutic) - Gemini CLI extension that reviews final-response wording for completion and certainty claims, then requests at most one evidence-focused revision through an `AfterAgent` hook. Runs the deterministic check locally.
 - [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Gemini CLI extension (MCP server + skill) that tells the agent what changed in your Python dependencies since the model's training cutoff: a static diff of each library's public API between the release at the cutoff and the version your lockfile pins, with no model calls or API key. Install via `gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff`.
 - [Better Design](https://github.com/better-designs/better-design-plugin) - Gemini CLI extension that connects the Better Design MCP server: design systems, UI and UX principles, icons and UI review for the interfaces the agent builds. Install with `gemini extensions install https://github.com/better-designs/better-design-plugin`; sign in with a free account on first connect.
+- [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
 
 ## Fun
 
