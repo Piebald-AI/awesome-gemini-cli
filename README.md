@@ -238,6 +238,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Dazzler](https://github.com/jongos/Dazzler) - Agent Skill for frontend and document design (typography, palettes, 30 templates, offline design checks) with setup instructions for Gemini CLI.
 - [Caprock](https://github.com/dspv/caprock) - Local dashboard that starts Gemini CLI sessions and follows them through the telemetry file Gemini writes, on the same screens as Claude Code, Codex and OpenCode: live activity, token cost per repository, searchable history.
 - [Awakado](https://awakado.noodledragon.studio) - macOS menu-bar app that keeps the Mac awake while Gemini CLI is working, using Gemini CLI hooks, and lets it sleep when it finishes. Also supports Claude Code, Codex and other agents. Free, with a paid Pro tier.
+- [fakegreen](https://github.com/fitzyracing1/fakegreen) - Deterministic diff checker with an `AfterAgent` hook (`npx fakegreen install gemini`) that denies the turn when the agent skipped or deleted tests, weakened assertions, added suppressions, special-cased the test environment or forced CI green with `|| true`, and feeds the findings back so Gemini fixes them. No LLM or API key. MIT.
 
 ## Browser Extensions
 
