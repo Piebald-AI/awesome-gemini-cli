@@ -99,6 +99,7 @@ Alternative user interfaces and frontends for interacting with Gemini CLI beyond
 - [Agent Workbench](https://github.com/cvelasquez/agent-workbench) - Local web UI for Antigravity CLI (`agy`), the official successor to Gemini CLI: tabs, browsable history, conversations as cards, and its status and context meter through the status line. Runs Claude Code, Codex and OpenCode side by side and hands a conversation over from one CLI to another. It doesn't drive Gemini CLI itself; the repository includes a one-off importer for old Gemini CLI chats.
 - [AnywhereDesign](https://anywheredesign.site) - Local-first voice cockpit and remote mobile interface for Claude Code & Antigravity/Gemini CLI. Control terminal agent sessions from your phone via local QR code, real-time voice dictation, live terminal output streaming, and zero-token mobile Git sync.
 - [Mobile SSH](https://mobile-ssh.github.io/) - Android and iOS (TestFlight beta) SSH client for running Gemini CLI on remote servers, with a Gemini CLI installer plugin, simultaneous terminal sessions, and tmux session management.
+- [Bellows](https://bellowsai.app) - Desktop workspace that runs Gemini CLI over ACP alongside Claude and Codex, with diffs, permission prompts, team rules, a hash-linked audit trail and live session sharing. Windows, macOS and Linux.
 
 ## Forks
 
