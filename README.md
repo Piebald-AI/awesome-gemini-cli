@@ -187,6 +187,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [8B AI Website Builder](https://github.com/8bsite/8b-agent-plugin) - Gemini CLI extension that builds an animated one-page website: the agent picks an 8B generated design, writes the copy and returns a preview link, plain-word edits and one HTML file. Remote MCP `https://mcp.8b.com/mcp`, no account or API key. Install: `gemini extensions install https://github.com/8bsite/8b-agent-plugin`.
 - [Supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents. Gemini CLI extension that runs the project's existing tests, measures line, branch and MC/DC coverage, and hands Gemini the untested code to test next. Install with `gemini extensions install https://github.com/supercorp-ai/supercov`.
 - [figma-maxxing](https://github.com/thiagoxikota/figma-maxxing) - Gemini CLI extension with 8 skills for agents editing real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, and a handoff gate. Built on figma-console-mcp; 3 of the checks also ran once on Figma's official MCP server. MIT. Install via `gemini extensions install https://github.com/thiagoxikota/figma-maxxing`.
+- [NotWorking](https://github.com/RyanNSJ/notworking) - Downdetector for AI agents: a skill and remote MCP server that checks whether other agents report the same site, skill or MCP server failure, and takes failure reports. Install: `gemini extensions install https://github.com/RyanNSJ/notworking`.
 
 ## Fun
 
