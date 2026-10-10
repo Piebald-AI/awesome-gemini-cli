@@ -253,6 +253,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [yoink](https://github.com/MajidRaimi/yoink) - Saves and switches Gemini CLI Google logins (oauth_creds.json and google_accounts.json) alongside Claude Code, Codex, Kimi Code and GitHub Copilot logins, from a CLI or a macOS menu bar app.
 - [MacMD Viewer](https://macmdviewer.com) - Read-only Markdown viewer for macOS 14+ for the GEMINI.md and plan files Gemini CLI writes. Renders Mermaid diagrams and highlighted code, reloads when the file changes on disk, and adds Quick Look previews in Finder. Paid, $19.99 one-time.
 - [aisw](https://github.com/burakdede/aisw) - Saves Gemini CLI logins and API keys as named profiles and switches the live `~/.gemini` state in one command, alongside Claude Code, Codex CLI and Antigravity CLI. Docs: [aiswitcher.dev](https://aiswitcher.dev).
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app that turns one set of AI coding rules into the file each tool reads: Gemini CLI's `GEMINI.md`, `AGENTS.md`, `CLAUDE.md`, Cursor rules and Copilot instructions, 30 rule-file formats in all. Blueprints carry variables so a team shares one set across projects, and the `lynxp` CLI writes the files into each repository. AGPL-3.0.
 
 ## Browser Extensions
 
