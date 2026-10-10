@@ -137,6 +137,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [puenteo](https://github.com/mano7onam/puenteo) - Gemini CLI extension + MCP server that lets Gemini CLI, Claude Code, Codex and Cursor sessions on one machine search each other's history and message each other live (send/wait/reply, channels, file claims). Local SQLite, no daemon.
 - [Mudroom](https://github.com/Kernel-Hunter/mudroom) - Runs Gemini CLI, Claude Code, Codex, Aider and opencode inside a Linux micro-VM on a copy-on-write clone of your project, with a network allowlist and a pull-request-style diff review before changes are applied.
 - [Drevon](https://www.drevon.dev) - Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.
+- [DHI Orbit](https://github.com/Dv04/dhi-orbit) - Local web dashboard that lists Gemini CLI and Antigravity chats alongside Claude Code, Codex and Cursor on one board, with what needs an answer and a reply box (`gemini --resume <id> -p`). Python standard library only, MIT.
 - [Crewly](https://github.com/stevehuang0115/crewly) - MIT-licensed, local platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Gemini CLI, Claude Code, and Codex, with task delegation through agent skills, shared persistent memory, and a web dashboard of live agent terminals. Requires one of these agent CLIs installed and logged in.
 
 ## Commands & Extensions
