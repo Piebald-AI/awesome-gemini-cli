@@ -387,6 +387,7 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 - [gemini-cli-demos](https://github.com/palladius/gemini-cli-demos) - Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.
 - [cli-demo-cookbook](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
 - [Antigravity CLI Tips](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
+- [Gemini CLI limits & pricing (QuotaBurn)](https://quotaburn.com/gemini-cli-limits/?utm_source=awesome-gemini-cli&utm_medium=referral) - Source-linked guide to Gemini CLI daily request quotas, the free-tier change, and per-token API cost.
 
 ## Non-Gemini CLI
 
