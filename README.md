@@ -243,6 +243,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [tokenreceipt](https://github.com/henrikdukefoss/tokenreceipt) - Local CLI that reads Gemini CLI chat logs (plus Claude Code, Codex, OpenCode and other agents) and prints a till-style receipt of tokens per agent and model, priced at public API list prices. Exports SVG/PNG cards or JSON; no account, no upload, no dependencies. MIT. Run: `npx github:henrikdukefoss/tokenreceipt`.
 - [Wardlume](https://wardlume.github.io?utm_source=awesome-gemini-cli&utm_medium=referral) - Locks the Mac's keyboard, mouse, and trackpad while Gemini CLI runs unattended, so progress stays visible but nobody can type into the session. Unlocks with Touch ID or Apple Watch; sandboxed with no network access.
 - [session-handoff-kit](https://github.com/alapha888/session-handoff-kit) - Agent Skill (open SKILL.md standard; installs into Gemini CLI with `npx skills add alapha888/session-handoff-kit --agent gemini-cli`) that ends a session with a structured handoff — goal state, decisions, files touched, open loops, next action — so the next session starts from facts instead of an over-full context. Also includes a context-hygiene checklist and a fill-in handoff template. MIT.
+- [agy-powerline](https://github.com/wassim-azi/agy-powerline) - Fast, configurable statusline for Antigravity CLI (agy), the successor to Gemini CLI, with real-time 5h/7d Gemini quota meters, pace markers, context usage, and interactive TUI editor. Zero dependencies, MIT.
 
 ## Browser Extensions
 
