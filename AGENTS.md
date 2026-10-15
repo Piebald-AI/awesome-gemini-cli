@@ -5,13 +5,13 @@ Contributions are highly valued! Here's how you can contribute:
 1. Fork the repository
 2. Edit the `README.md` file to add your entry
 3. Make sure your entry follows the format: `- [Project Name](URL) - Description`
-4. Submit a pull request
+4. Submit a pull request. Please use the PR template at `.github/pull_request_template.md`.
 
 Feel free to add `utm_*` or other tracking parameters to your URL(s) (unless they point to GitHub, which ignores them).  Suggested set: `?utm_source=awesome-gemini-cli&utm_medium=referral`.
 
 ## Affiliation
 
-No need to disclose affiliation, if any.  Most people submit their own projects anyway.
+No need to disclose affiliation, if any. Most people submit their own projects anyway.
 
 ## Guidelines
 
