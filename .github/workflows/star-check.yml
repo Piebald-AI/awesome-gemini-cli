@@ -169,7 +169,7 @@ jobs:
                 '',
                 "It looks like you haven't starred this repo yet. We merge almost everything, " +
                   'but we get a lot of submissions and reviewing them takes work. ' +
-                  `A star is the one—and only—thing we ask in return. You can star it at the top of ${repoUrl}, ` +
+                  `A star is the one thing we ask in return. You can star it at the top of ${repoUrl}, ` +
                   'or from a terminal:',
                 '',
                 '```bash',
@@ -203,7 +203,7 @@ jobs:
 
             const thanksBody = [
               MARKER,
-              `Thanks for the star! ⭐ The \`${LABEL}\` label has been removed.`,
+              `Thank you for the star! ⭐ The \`${LABEL}\` label has been removed.`,
             ].join('\n');
 
             // Labels must exist before they can be added; create it on first
