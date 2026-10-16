@@ -162,10 +162,13 @@ jobs:
               return fallbackCache.get(key);
             }
 
-            function askBody() {
+            // `login` is the PR author's. GitHub logins are limited to
+            // letters, digits and hyphens, so it's safe to put in Markdown,
+            // and the @-mention notifies them that the comment is there.
+            function askBody(login) {
               const lines = [
                 MARKER,
-                'Thank you for the submission! 👋',
+                `Thank you for the submission @${login}! 👋`,
                 '',
                 "It looks like you haven't starred this repo yet. We merge almost everything, " +
                   'but we get a lot of submissions and reviewing them takes work. ' +
@@ -244,10 +247,10 @@ jobs:
               }
             }
 
-            async function flag(number) {
+            async function flag(number, login) {
               await ensureLabel();
               await github.rest.issues.addLabels({ owner, repo, issue_number: number, labels: [LABEL] });
-              await upsertComment(number, askBody(), { createIfMissing: true });
+              await upsertComment(number, askBody(login), { createIfMissing: true });
               core.info(`#${number}: flagged ${LABEL}`);
             }
 
@@ -277,7 +280,7 @@ jobs:
               if (await hasStarred(pr.user.login)) {
                 await clear(pr.number, labelNames);
               } else {
-                await flag(pr.number);
+                await flag(pr.number, pr.user.login);
               }
             }
 
