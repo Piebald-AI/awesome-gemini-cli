@@ -120,9 +120,14 @@ jobs:
                 core.info(`Loaded ${stargazers.size} stargazers with STARGAZERS_TOKEN`);
               } catch (err) {
                 if (![401, 403, 404].includes(err.status)) throw err;
+                // GitHub names the fine-grained permission a request needed in
+                // this header, which is what you need to fix the token.
+                const needed = err.response?.headers?.['x-accepted-github-permissions'];
                 core.warning(
-                  `STARGAZERS_TOKEN was rejected (HTTP ${err.status}); it may have expired or lack access. ` +
-                    "Checking authors' public starred lists instead.",
+                  `STARGAZERS_TOKEN was rejected (HTTP ${err.status}: ${err.message}); ` +
+                    'it may have expired or lack access' +
+                    (needed ? ` (GitHub says this needs: ${needed})` : '') +
+                    ". Checking authors' public starred lists instead.",
                 );
               }
               return stargazers;
