@@ -252,6 +252,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [agy-powerline](https://github.com/wassim-azi/agy-powerline) - Fast, configurable statusline for Antigravity CLI (agy), the successor to Gemini CLI, with real-time 5h/7d Gemini quota meters, pace markers, context usage, and interactive TUI editor. Zero dependencies, MIT.
 - [agentvcr](https://github.com/tojacob03/agentvcr) - Turns a Gemini CLI chat from `~/.gemini/tmp/*/chats` (the JSONL format with rewinds and patches, or the older JSON files) into a self-contained HTML replay with a scrubbable timeline, diffs and terminal output, with API keys and other secrets masked locally first. Share it as a link through a secret gist on your own GitHub, embed it, export a Markdown transcript for a pull request, or have its GitHub Action comment the replay on agent PRs. Also reads Claude Code, Codex, Cursor and OpenCode. MIT, no dependencies. Run: `npx agentvcr-cli`.
 - [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Install with `npx skills add safetycard/safetycard --agent gemini-cli`.
+- [ChatVault](https://github.com/ssanaullahrais/Chat-Vault) - Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.
 
 ## Browser Extensions
 
