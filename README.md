@@ -254,6 +254,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [SafetyCard](https://github.com/safetycard/safetycard) - Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them. Install with `npx skills add safetycard/safetycard --agent gemini-cli`.
 - [ChatVault](https://github.com/ssanaullahrais/Chat-Vault) - Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.
 - [laya-guard](https://github.com/scs0209/laya-guard) - Local guardrail with a `BeforeTool` hook for Gemini CLI (`laya-guard install gemini-cli`) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.
+- [ratchet](https://github.com/krishansubudhi/ratchet) - Code-size budget CLI (`pip install ratchet-size`): `ratchet check` refuses changes that grow source or test line counts past a ceiling, and only `ratchet grant` raises it. For Gemini CLI it is wired through a `GEMINI.md` instruction snippet (no hook); a CI check or git pre-commit hook enforces it.
 
 ## Browser Extensions
 
