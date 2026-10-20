@@ -389,6 +389,7 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 - [cli-demo-cookbook](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
 - [Antigravity CLI Tips](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
 - [Gemini CLI limits & pricing (QuotaBurn)](https://quotaburn.com/gemini-cli-limits/?utm_source=awesome-gemini-cli&utm_medium=referral) - Source-linked guide to Gemini CLI daily request quotas, the free-tier change, and per-token API cost.
+- [MCP servers, harness by harness (RigFit)](https://rigfit-harness.vercel.app/mcp-servers-by-harness/?utm_source=awesome-gemini-cli&utm_medium=referral) - One MCP server (Context7) configured in Gemini CLI's settings.json alongside Claude Code, Codex CLI, OpenCode and goose, using each tool's documented syntax, with sources dated.
 
 ## Non-Gemini CLI
 
