@@ -123,6 +123,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [magents](https://github.com/abnegate/magents) - Gemini CLI extension, MCP server and CLI over the session transcripts Gemini CLI, Claude Code, Codex, Copilot CLI, Cursor, Grok and OpenCode already write. List and read other live sessions, hand off compact state, send into a specific chat, or spawn a headless session that replies through a shared inbox. Install: `gemini extensions install https://github.com/abnegate/magents`. Rust, MIT.
 - [SpaceApp](https://github.com/oll4com/spaceapp) - Self-hosted web workspace that runs Gemini CLI alongside OpenCode, Codex, Claude Code and other coding CLIs as side-by-side panes in persistent rooms, with MCP servers and managed browser panes. Install: `npx --yes run-spaceapp@latest install`. Source-available (BSL 1.1).
 - [AutoHarness](https://github.com/D-Shey/autoharness) - Makes Gemini CLI (and Claude Code, Codex, Qwen Code) prepare before it builds: splits the task into areas of know-how, finds or writes a skill for each, checks the result against the original, and lets a fresh critic judge it. MIT.
+- [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp) - Local-first shared work-state MCP server (`npx -y @concord-ai/concord-mcp`) that lets coding agents coordinate on one repo through presence, file claims, messaging, handoffs and review packets. Works with Gemini CLI alongside Claude Code, Codex, Cursor and other agents. TypeScript, stdio, MIT.
 
 ## Commands & Extensions
 
