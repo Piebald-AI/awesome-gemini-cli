@@ -260,6 +260,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [ChatVault](https://github.com/ssanaullahrais/Chat-Vault) - Windows app that reads, searches and backs up your Gemini CLI chats across accounts, and continues any chat in Gemini CLI through a handoff file that carries the whole conversation.
 - [laya-guard](https://github.com/scs0209/laya-guard) - Local guardrail with a `BeforeTool` hook for Gemini CLI (`laya-guard install gemini-cli`) that judges each shell command before it runs, using regex rules, protected paths, and a small on-device model. Blocked commands are denied; ones marked for review pass with a note. Also hooks into Claude Code, Codex, Cursor, and other agents. MIT.
 - [ratchet](https://github.com/krishansubudhi/ratchet) - Code-size budget CLI (`pip install ratchet-size`): `ratchet check` refuses changes that grow source or test line counts past a ceiling, and only `ratchet grant` raises it. For Gemini CLI it is wired through a `GEMINI.md` instruction snippet (no hook); a CI check or git pre-commit hook enforces it.
+- [agent-files-check](https://github.com/lesshands/agent-files-check) - Checks GEMINI.md and other coding-agent instruction files (AGENTS.md, CLAUDE.md, Cursor, Copilot, Windsurf and Cline rules) for references to files and folders that git history shows were deleted or moved, with file:line, the commit and the new location when it can tell. As a GitHub Action it notes on a pull request each instruction line whose path the change deletes or renames. Standard-library Python, MIT.
 
 ## Browser Extensions
 
