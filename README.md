@@ -382,6 +382,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [Model Salt](https://github.com/modelsalt/model-salt) - MCP server that gives the model randomness from outside it, so one prompt gives different pictures, stories, names and designs that still do what you asked. One tool, `model_salt`; add it with `npx -y model-salt setup gemini`. MIT.
 - [Landed MCP](https://github.com/landedjobs/landed-mcp) - Hosted MCP server for job search in Gemini CLI: rank AI and tech jobs against a role brief, read application forms, and fetch interview prep. No key needed.
 - [NeverApply](https://neverapply.co/features/mcp?utm_source=awesome-gemini-cli&utm_medium=referral) - Hosted job-search MCP server for Gemini CLI: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Add with: `gemini mcp add --transport http neverapply https://neverapply.co/mcp`.
+- [Carbon Forge](https://carbonforge.dev/docs/p/guides/mcp-anonymous-access?utm_source=awesome-gemini-cli&utm_medium=referral) - Hosted MCP server for source control and a shared record: Gemini CLI can read and write code, files and prose in one record on the server, open a lane instead of cloning, and land a change as one all-or-nothing changeset. Remote Streamable HTTP at `https://carbonforge.dev/api/mcp`; public workspaces read without a token, writing needs a bearer token.
 
 ## Neovim Plugins
 
