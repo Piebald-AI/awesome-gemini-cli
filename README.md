@@ -382,6 +382,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [Model Salt](https://github.com/modelsalt/model-salt) - MCP server that gives the model randomness from outside it, so one prompt gives different pictures, stories, names and designs that still do what you asked. One tool, `model_salt`; add it with `npx -y model-salt setup gemini`. MIT.
 - [Landed MCP](https://github.com/landedjobs/landed-mcp) - Hosted MCP server for job search in Gemini CLI: rank AI and tech jobs against a role brief, read application forms, and fetch interview prep. No key needed.
 - [NeverApply](https://neverapply.co/features/mcp?utm_source=awesome-gemini-cli&utm_medium=referral) - Hosted job-search MCP server for Gemini CLI: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval. Remote Streamable HTTP with OAuth sign-in, no API key; free plan available. Add with: `gemini mcp add --transport http neverapply https://neverapply.co/mcp`.
+- [Tera Studio](https://terastudio.co/ai-assistants/) - Hosted MCP server for singers over remote Streamable HTTP, no key or sign-in: `find_song_key` looks up a well-known song's key, tempo and typical vocal range by title, and the other tools return links to free browser tools that find a song file's key and BPM or move it up to 6 semitones. Add with `gemini mcp add --transport http tera-studio https://terastudio.co/mcp`.
 
 ## Neovim Plugins
 
