@@ -299,6 +299,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 
 - [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. [Live demo](https://shiori-v1.vercel.app?utm_source=awesome-gemini-cli&utm_medium=referral).
 - [Exam Cram Coach](https://github.com/ZeKaiNie/universal-examprep-skill) - Agent Skill for exam prep that runs in Gemini CLI and other agents (`npx skills add ZeKaiNie/universal-examprep-skill`). Teaches from a student's own lecture slides, notes and past papers with file and page citations, crops figures from the PDFs, quizzes only from their homework and past papers, and keeps progress across sessions. English and Chinese.
+- [codecall](https://github.com/GAURAV-1313/codecall) - Agent Skill that runs in Gemini CLI and other agents (`npx skills add GAURAV-1313/codecall`). Quizzes you on the code your agent just wrote, traces one request flow file by file, or plants one bug for a debugging-interview drill and restores it with Git. No API key.
 
 ## MCP Servers
 
