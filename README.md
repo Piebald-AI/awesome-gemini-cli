@@ -265,6 +265,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [ratchet](https://github.com/krishansubudhi/ratchet) - Code-size budget CLI (`pip install ratchet-size`): `ratchet check` refuses changes that grow source or test line counts past a ceiling, and only `ratchet grant` raises it. For Gemini CLI it is wired through a `GEMINI.md` instruction snippet (no hook); a CI check or git pre-commit hook enforces it.
 - [OpenMoat](https://github.com/crocodile-labs/openmoat) - Local policy layer with a `BeforeTool` hook for Gemini CLI (`openmoat init`) that checks every shell command, file read and write, web request and MCP call against one policy before it runs, blocking what the policy denies. Adds an egress proxy, MCP server pinning and a hash-chained audit log, and the same policy covers Claude Code, Codex, Cursor and other agents. Rust, MIT OR Apache-2.0.
 - [Scarwise](https://github.com/DomitorAI/scarwise) - Gemini CLI hooks (BeforeTool/AfterTool) that learn from failed tool calls by themselves and stop a known mistake before it runs; what one agent learns protects your other agents (Claude Code, Codex, Cursor, OpenCode and more).
+- [self-host](https://github.com/ajnart/self-host) - Lets your agent install self-hosted apps on your own hardware and set them up (admin accounts, API keys, apps connected to each other), asking before each step.
 
 ## Browser Extensions
 
