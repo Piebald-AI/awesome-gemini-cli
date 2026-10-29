@@ -127,6 +127,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [AutoHarness](https://github.com/D-Shey/autoharness) - Makes Gemini CLI (and Claude Code, Codex, Qwen Code) prepare before it builds: splits the task into areas of know-how, finds or writes a skill for each, checks the result against the original, and lets a fresh critic judge it. MIT.
 - [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp) - Local-first shared work-state MCP server (`npx -y @concord-ai/concord-mcp`) that lets coding agents coordinate on one repo through presence, file claims, messaging, handoffs and review packets. Works with Gemini CLI alongside Claude Code, Codex, Cursor and other agents. TypeScript, stdio, MIT.
 - [LitGravity](https://github.com/wjgoarxiv/litgravity) - Adds lit to the Antigravity CLI (`agy`) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.
+- [MAO](https://trymao.dev/) - Native desktop canvas for macOS, Windows and Linux that runs Gemini CLI (0.41 or later) as a built-in agent alongside Claude Code, Codex, Grok, OpenCode, Antigravity and shell agents, each as a real terminal node on its own login. Wired agents hand each other tasks through the `mao` CLI, an Orchestrator agent can recruit and direct the others, and each layer is a git worktree whose diff you review and land from the canvas. Closed source; US$20 one-time, 7-day free trial.
 
 ## Commands & Extensions
 
