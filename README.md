@@ -269,6 +269,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Scarwise](https://github.com/DomitorAI/scarwise) - Gemini CLI hooks (BeforeTool/AfterTool) that learn from failed tool calls by themselves and stop a known mistake before it runs; what one agent learns protects your other agents (Claude Code, Codex, Cursor, OpenCode and more).
 - [self-host](https://github.com/ajnart/self-host) - Lets your agent install self-hosted apps on your own hardware and set them up (admin accounts, API keys, apps connected to each other), asking before each step.
 - [Agent Notifications](https://github.com/777genius/agent-notifications) - Cross-platform desktop notifications and optional webhooks for Gemini CLI turn completion and tool permission requests. Also supports Claude Code, Codex CLI, OpenCode, Cursor CLI, and Qoder.
+- [DESIGN:OS](https://github.com/jangtrinh/design-os) - Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with `npx @easestart/design-os init`. Source-available (PolyForm Shield).
 
 ## Browser Extensions
 
