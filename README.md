@@ -130,6 +130,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [LitGravity](https://github.com/wjgoarxiv/litgravity) - Adds lit to the Antigravity CLI (`agy`) so a request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note.
 - [MAO](https://trymao.dev/) - Native desktop canvas for macOS, Windows and Linux that runs Gemini CLI (0.41 or later) as a built-in agent alongside Claude Code, Codex, Grok, OpenCode, Antigravity and shell agents, each as a real terminal node on its own login. Wired agents hand each other tasks through the `mao` CLI, an Orchestrator agent can recruit and direct the others, and each layer is a git worktree whose diff you review and land from the canvas. Closed source; US$20 one-time, 7-day free trial.
 - [Aixle Flow](https://github.com/AixleHQ/flow) - Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.
+- [Joxo](https://joxo.ai?utm_source=awesome-gemini-cli&utm_medium=referral) - Shared project for a team's coding agents. Start Gemini CLI with `joxo gemini` and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.
 
 ## Commands & Extensions
 
