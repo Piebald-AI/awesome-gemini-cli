@@ -132,6 +132,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [Aixle Flow](https://github.com/AixleHQ/flow) - Self-hosted Kanban board that runs Gemini CLI alongside Claude Code, Codex, Cursor CLI and other coding agents, each in its own container. Moving a card starts a durable workflow with parallel steps, approval gates and per-run token and cost tracking.
 - [Joxo](https://joxo.ai?utm_source=awesome-gemini-cli&utm_medium=referral) - Shared project for a team's coding agents. Start Gemini CLI with `joxo gemini` and it works from the same task board, decisions and handoffs as teammates' Claude Code, Codex or Cursor agents, and can ask a teammate's agent for help. Desktop app, iPhone app and a remote MCP server.
 - [EndoStack](https://github.com/requie/endostack) - Security-first workflows for coding agents: 62 skills that threat-model changes, security-review diffs and verify results by running them. Works in Gemini CLI, Claude Code, Codex, Cursor and 11 other agents. MIT.
+- [Preloop](https://github.com/preloop/preloop) - Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. Works with Gemini CLI, Claude Code, Codex CLI, Cursor, OpenCode and Copilot CLI. Apache-2.0.
 
 ## Commands & Extensions
 
