@@ -281,6 +281,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [DESIGN:OS](https://github.com/jangtrinh/design-os) - Free design CLI and skill pack for Gemini CLI, Claude Code and Codex. Describe a UI in plain words and get web, Figma and SwiftUI output checked by deterministic taste gates; installs with `npx @easestart/design-os init`. Source-available (PolyForm Shield).
 - [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - Offline security scanner that protects any AI bot's skills: scans any skill folder with a `SKILL.md` (including Gemini CLI skills in `~/.gemini/skills/`) for prompt injection, credential theft, and other risky patterns before you install it, with findings tagged by OWASP LLM Top 10 and OpenCRE ID. Reads files as data, never runs them, no telemetry. Run `npx ironheights scan ./path/to/skill`. Apache-2.0.
 - [Railse](https://github.com/xufei547/railse-opc) - Self-hosted approval inbox for Gemini CLI, Claude Code and Codex: hooks route every tool call through risk-based rules; for Gemini CLI that means deny rules plus phone notifications for questions and completion, with approvals from the phone for Claude Code and Codex.
+- [Skim](https://github.com/skim-md/skim) - Browser extension that renders the Markdown plans and docs Gemini CLI writes, re-rendering live as the file changes. KaTeX, Mermaid, folder view.
 
 ## Browser Extensions
 
