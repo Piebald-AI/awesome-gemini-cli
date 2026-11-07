@@ -287,6 +287,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Railse](https://github.com/xufei547/railse-opc) - Self-hosted approval inbox for Gemini CLI, Claude Code and Codex: hooks route every tool call through risk-based rules; for Gemini CLI that means deny rules plus phone notifications for questions and completion, with approvals from the phone for Claude Code and Codex.
 - [Skim](https://github.com/skim-md/skim) - Browser extension that renders the Markdown plans and docs Gemini CLI writes, re-rendering live as the file changes. KaTeX, Mermaid, folder view.
 - [AI Meter](https://github.com/dichiara19/ai-meter) - Native Windows 11 app that lists active Gemini CLI sessions, on Windows and in WSL, with their model and context in use, next to Google Antigravity quotas and other AI usage limits in a taskbar pill.
+- [AI Usage Meter (VS Code)](https://github.com/theluckystrike/ai-usage-meter-vscode) - VS Code extension that reads Gemini CLI session files in `~/.gemini/tmp` and shows today's tokens and estimated cost in the status bar, with a dashboard split by project and model. Also covers Claude Code and Codex. Runs offline, no login or API key.
 
 ## Browser Extensions
 
