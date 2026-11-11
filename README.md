@@ -294,6 +294,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [AI Meter](https://github.com/dichiara19/ai-meter) - Native Windows 11 app that lists active Gemini CLI sessions, on Windows and in WSL, with their model and context in use, next to Google Antigravity quotas and other AI usage limits in a taskbar pill.
 - [AI Usage Meter (VS Code)](https://github.com/theluckystrike/ai-usage-meter-vscode) - VS Code extension that reads Gemini CLI session files in `~/.gemini/tmp` and shows today's tokens and estimated cost in the status bar, with a dashboard split by project and model. Also covers Claude Code and Codex. Runs offline, no login or API key.
 - [AI Access Auditor](https://github.com/dirmedmr-alt/ai-access-auditor) - Desktop app (macOS, Windows, Linux) that lists what Gemini CLI and other coding agents are allowed to do (trusted folders, allowed tools, MCP servers, API keys left in logs) and revokes any of it with undo. Can add a Gemini CLI hook that asks before a tool runs. Local only, MIT.
+- [Align CLI](https://github.com/aligndottech/align-cli) - Local CLI and MCP server that gives Gemini CLI your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks its changes against them (Gemini's hook reports after the edit lands). Also works with Claude Code, Codex and others. Free, runs locally, MIT.
 
 ## Browser Extensions
 
