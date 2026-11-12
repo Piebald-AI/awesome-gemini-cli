@@ -442,6 +442,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [Shotboard](https://github.com/freeman14/shotboard-mcp) - Local MCP server built into Shotboard, a closed-source Mac app for marketing content, plus a Gemini CLI extension manifest. Lets Gemini CLI search Meta and TikTok ads, extract scripts from links, and generate images, video and audio with 100 media models while the app is open. Connect with `gemini mcp add --transport http -s user --trust shotboard http://127.0.0.1:4317/mcp`.
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
 - [KissMyPost](https://github.com/krutytskyi/kissmypost-gemini) - Reddit audience data for Gemini CLI over a remote MCP server: subreddit finder, best time to post, brand mentions.
+- [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) - MIT-licensed local (stdio) MCP server that lets Gemini CLI rent a GPU by the minute on CloudGPU, run a job, download the results and shut the machine down; the same key also works with an OpenAI-compatible API for open models. Needs a CloudGPU account with prepaid balance.
 
 ## Neovim Plugins
 
