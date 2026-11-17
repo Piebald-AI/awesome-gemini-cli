@@ -220,6 +220,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [AI Agent Templates](https://github.com/workspace-templates/ai-agent-templates) - Hundreds of MIT-licensed skills, subagents, custom commands, MCP setups and GEMINI.md rules in Gemini CLI's own file layout (500 templates in all, also for Claude Code, Codex, Cursor and Copilot), installable with `npx workspacetemplates add <name> --tool gemini-cli`.
 - [GitRanks Contribute](https://github.com/gitranks/contribute) - Find open-source GitHub issues matched to your skills, fix one with your agent, and approve the pull request yourself. Gemini CLI extension for the remote MCP server `https://mcp.gitranks.com/mcp`, with OAuth sign-in through GitHub and no API key. MIT. Install: `gemini extensions install https://github.com/gitranks/contribute`, then `/mcp auth gitranks`.
 - [Revenue Skills](https://github.com/moonetix/revenue-skills) - Gemini CLI extension with 11 Agent Skills for code that handles money: an audit of payment, credit and payout paths that reports each bug with file, line and a request proof or code trace, and skills that build webhook endpoints, ledgers, refunds, usage credits, subscriptions, payouts, referrals and sign-up abuse guards. Install: `gemini extensions install https://github.com/moonetix/revenue-skills`
+- [AsItIs](https://github.com/Katta041/asitis-agent-tools) - Gemini CLI extension and CLI that lints GEMINI.md, AGENTS.md and SKILL.md. Shows which files Gemini CLI loads at startup and about how many tokens they cost, and flags instructions hidden in comments or invisible characters. Read-only, runs offline.
 
 ## Fun
 
@@ -306,11 +307,13 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Align CLI](https://github.com/aligndottech/align-cli) - Local CLI and MCP server that gives Gemini CLI your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks its changes against them (Gemini's hook reports after the edit lands). Also works with Claude Code, Codex and others. Free, runs locally, MIT.
 - [ctx-receipt](https://github.com/Jenoyrex/ctx-receipt) - Shows what Gemini CLI, Claude Code, Codex CLI, and Cursor pre-load into context before your first prompt: GEMINI.md and its imports, skills, and MCP servers, as token estimates. Includes a CI budget check and a GitHub Action.
 - [tattlr](https://github.com/kaygaaf/tattlr) - Local CLI that reads session logs from Gemini CLI and other coding agents, and can hook those agents to block risky tool calls before they run.
+- [Folkbench Switch](https://folkbench.com/en/switch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gemini-cli) - Open-source desktop app (Tauri/Rust) that saves API provider profiles and writes the selected endpoint and key into Gemini CLI's `~/.gemini/.env` and `settings.json`, with a diff preview before writing. Also handles Claude Code and Codex.
 - [Buddy Sandboxes](https://buddy.works/docs/ai-agents/sandboxes) - Isolated Ubuntu machines in the Buddy.Works cloud for running Gemini CLI away from your laptop. Install it in the sandbox with `npm install -g @google/gemini-cli`, connect over SSH, and the agent can install packages and run commands without touching your machine. The `bdy sandbox` CLI also copies files, exposes ports on public endpoints and takes snapshots.
 
 ## Browser Extensions
 
 - [SRT Subtitle Translator Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - Browser-based tool to translate SRT subtitles using your Gemini subscription via CLI Proxy API with automatic validation/error correction - no API keys needed.
+- [Open in AI Agent for Gmail](https://openinaiagent.com/?utm_source=awesome-gemini-cli&utm_medium=referral) - Open-source Chrome, Edge and Firefox extension ([GitHub](https://github.com/thomasoclegg/gmail-to-agent)) that right-clicks single or multiple Gmail threads directly into separate named `gemini -i` or Antigravity (`agy`) sessions in your working folder, plus unread inbox triage up to 25 threads.
 
 ## SDKs
 
