@@ -310,6 +310,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 ## Browser Extensions
 
 - [SRT Subtitle Translator Validator](https://github.com/VjayC/SRT-Subtitle-Translator-Validator) - Browser-based tool to translate SRT subtitles using your Gemini subscription via CLI Proxy API with automatic validation/error correction - no API keys needed.
+- [Open in AI Agent for Gmail](https://openinaiagent.com/?utm_source=awesome-gemini-cli&utm_medium=referral) - Open-source Chrome, Edge and Firefox extension ([GitHub](https://github.com/thomasoclegg/gmail-to-agent)) that right-clicks single or multiple Gmail threads directly into separate named `gemini -i` or Antigravity (`agy`) sessions in your working folder, plus unread inbox triage up to 25 threads.
 
 ## SDKs
 
