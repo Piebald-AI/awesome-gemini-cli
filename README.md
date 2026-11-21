@@ -481,8 +481,8 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [Brilliant](https://github.com/brilliant-hq/brilliant-mcp) - MCP server that lets Gemini CLI create and edit vector designs on a Brilliant canvas you edit by hand at the same time. Install: `gemini mcp add brilliant -- npx -y @brilliant-hq/mcp`.
 - [DankMachine Meme Sounds](https://github.com/HalberdLLC/dank-meme-sounds) - Free, read-only MCP server that lets Gemini CLI find, search and play 38,000+ meme sound effects: describe a moment to get a fitting reaction sound, or see what is trending. Remote Streamable HTTP (`gemini mcp add --transport http dank-meme-sounds https://dankmachine.com/mcp`, no API key) or local with playback via `gemini mcp add dankmachine -- npx -y dank-meme-sounds`.
 
-- [Kling AI (Global) Plugin](https://github.com/klingai-tech/claude-plugin) - Official hosted OAuth MCP extension for Gemini CLI. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin`; uses Global account credits.
-- [Kling AI (China) Plugin](https://github.com/klingai-tech/claude-plugin-cn) - Official hosted OAuth MCP extension for Gemini CLI. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin-cn`; uses China account credits.
+- [Kling AI (Global) Plugin](https://github.com/klingai-tech/claude-plugin) - Official hosted OAuth MCP extension for Gemini CLI. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin`; uses Global account credits. Companion npm CLI: [@klingai/cli-global](https://www.npmjs.com/package/@klingai/cli-global) (`npm i -g @klingai/cli-global`).
+- [Kling AI (China) Plugin](https://github.com/klingai-tech/claude-plugin-cn) - Official hosted OAuth MCP extension for Gemini CLI. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin-cn`; uses China account credits. Companion npm CLI: [@klingai/cli-cn](https://www.npmjs.com/package/@klingai/cli-cn) (`npm i -g @klingai/cli-cn`).
 
 ## Neovim Plugins
 
