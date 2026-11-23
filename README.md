@@ -318,6 +318,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [FindOpenSource Agent Skill Builder](https://findoss.dev/en/skills) - Free, no-login web tool for picking open-source Agent Skills (346 across 10 packs, including Anthropic Skills, Superpowers and Hugging Face Skills) and getting one install prompt to paste into Gemini CLI, or the matching `npx skills add` commands, at project or global scope. Also targets Claude Code, Codex, Cursor, GitHub Copilot and OpenCode.
 - [Crumple](https://github.com/priberry-data/crumplelab) - Crash-tests Gemini CLI, Claude Code and Codex against 20 traps drawn from real attacks (prompt injection in issues, MCP tool poisoning, key-stealing install scripts) in a Docker container with fake keys; `scan` audits GEMINI.md, MCP servers and permissions with SARIF output. Install via `gemini extensions install https://github.com/priberry-data/crumplelab`.
 - [Tare](https://github.com/priberry-data/tarelab) - Reads local Gemini CLI, Claude Code, Codex and Cline logs, prices every token and shows which spend was avoidable, such as re-caching after pauses. Runs locally and uploads nothing. Install via `gemini extensions install https://github.com/priberry-data/tarelab`.
+- [Calyban](https://calyban.com/?utm_source=awesome-gemini-cli&utm_medium=referral) - Free Windows app that installs MCP servers and skills into Gemini CLI (and five other agents), checks them for prompt injection and known-malicious npm/PyPI packages first, and can undo each install.
 
 ## Browser Extensions
 
