@@ -138,6 +138,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [pando](https://github.com/xseman/pando) - Terminal workspace that runs Gemini CLI side by side with Claude Code, Codex, OpenCode and shells, each session in its own git worktree, under a daemon that keeps them running when the TUI closes. Marks a Gemini session running or waiting for approval, reviews and commits its diff in the TUI, and has a CLI that blocks on session status.
 - [Orchestrator](https://orchestrator.inc?utm_source=awesome-gemini-cli&utm_medium=referral) - Open-source desktop app (macOS, Windows, Linux) that runs Gemini CLI alongside Claude Code, Codex and other coding agents as parallel workers, each in its own git worktree, with an orchestrator agent splitting the work and a board tracking every PR through CI and review.
 - [WindowDock](https://github.com/poikilometis/WindowDock) - Open-source Windows app that docks the terminal windows you already have open into named tabs and grids, so Gemini CLI sessions stay visible next to Claude Code and Codex. Optional Gemini CLI hooks show which session is waiting for input and jump to its window.
+- [Novadeck](https://github.com/novadeck-org/novadeck) - Free, open-source desktop app for macOS, Windows and Linux that runs Antigravity CLI (`agy`), Gemini CLI's successor, side by side with Claude Code, Codex and opencode. Every agent's questions and permission asks land in one Inbox, and agents can message each other and start teammates in another harness.
 
 ## Commands & Extensions
 
