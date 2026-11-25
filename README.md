@@ -511,6 +511,7 @@ Frameworks for building AI-powered development workflows with Gemini CLI.
 - [gemini-code-flow](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
 - [gemini-cli-commands-demo](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI.
 - [Emdash Skills](https://github.com/megabytespace/claude-skills) - 14-category autonomous product-building OS with 18 specialized agents. Turns one-line prompts into deployed products. Includes GEMINI.md compatibility for cross-tool portability. Skills cover architecture, planning, quality, brand, media, observability, and deployment on Cloudflare Workers.
+- [SpecStream](https://specstream.ai) - Live web data engine for Gemini CLI. Search API, extraction API, and drop-in compatibility for Tavily, Exa, Brave, Serper and SearXNG. Add with: `gemini mcp add --transport http specstream https://api.specstream.ai/mcp`
 
 ## Documentation & Examples
 
