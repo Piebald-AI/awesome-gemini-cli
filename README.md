@@ -282,6 +282,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Tare](https://github.com/priberry-data/tarelab) - Reads local Gemini CLI, Claude Code, Codex and Cline logs, prices every token and shows which spend was avoidable, such as re-caching after pauses. Runs locally and uploads nothing. Install via `gemini extensions install https://github.com/priberry-data/tarelab`.
 - [Calyban](https://calyban.com/?utm_source=awesome-gemini-cli&utm_medium=referral) - Free Windows app that installs MCP servers and skills into Gemini CLI (and five other agents), checks them for prompt injection and known-malicious npm/PyPI packages first, and can undo each install.
 - [Spellwarden](https://spellwarden.ai/docs/instruction-files?utm_source=piebald-awesome-gemini-cli&utm_medium=listing&utm_campaign=growth-listings&utm_content=owner) - Open source (Apache-2.0) scanner for what Gemini CLI loads: `GEMINI.md` files in a repository, and with `scan --user` the MCP servers, hooks, extensions and skills under `~/.gemini`. Reads them without running them, flags injected instructions, hidden characters and unpinned packages, and runs in CI and before each commit.
+- [gravity-hud](https://github.com/sb1733831438-maker/gravity-hud) - Local statusline for Antigravity CLI (`agy`), the successor to Gemini CLI, with context and quota bars plus tools, subagents and todos parsed incrementally from the session transcript. Zero runtime dependencies, no network, MIT. Install: `npx github:sb1733831438-maker/gravity-hud install`.
 
 ## Browser Extensions
 
