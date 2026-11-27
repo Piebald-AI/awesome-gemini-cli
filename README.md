@@ -296,6 +296,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 - [TeamoRouter](https://teamorouter.cn?utm_source=awesome-gemini-cli&utm_medium=referral) - Hosted LLM gateway — managed alternative to self-hosted bridges. OpenAI-compatible and native Anthropic endpoints behind one API key; works with Gemini CLI, Claude Code, and Codex directly.
 - [Bifrost](https://github.com/maximhq/bifrost) - Self-hosted gateway for Gemini CLI that unifies cloud and local model providers with routing, fallbacks, load balancing, and MCP support.
 - [cliproxy-rs](https://github.com/vayungodara/cliproxy-rs) - Rust rewrite of CLIProxyAPI with a built-in dashboard. Serves the Gemini API on a local endpoint (`GOOGLE_GEMINI_BASE_URL`), so Gemini CLI can run on Gemini API keys or on signed-in Claude and ChatGPT accounts.
+- [FreeAITokens](https://github.com/timchosen/freeaitokens) - Runs Gemini CLI (`npx freeaitokens gemini`) on the free tiers of AI providers through one local endpoint that speaks the Gemini API, switching provider when one hits its limit.
 
 ## Prompts
 
